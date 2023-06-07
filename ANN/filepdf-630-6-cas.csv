@@ -1,0 +1,18 @@
+entity_group,score,word,start,end
+LIVB,0.75292355,Homme,0,5
+LIVB,0.92405033,20 ans,8,15
+LIVB,0.93068665,femme,35,41
+ANAT,0.30513364,cou,62,66
+CHEM,0.48057008,-cuisine,73,81
+ANAT,0.89128596,poitrine,89,98
+PROC,0.9430835,prélèvement,146,158
+ANAT_PROC,0.6813346,sang veineux,161,174
+CHEM,0.34675688,alcool,191,197
+DISO,0.42849126,émie,197,201
+PROC,0.85833573,recherche,218,228
+CHEM,0.7396484,dérivés cannabinoïdes,231,253
+PROC,0.9336513,immunoenzymologie,257,275
+CHEM,0.6695881,ng/ml,292,298
+PROC,0.6878668,screening toxicologique,304,328
+CHEM,0.5766852,CLHP/BD,332,340
+CHEM,0.6494943,kavalactones,389,402

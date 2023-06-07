@@ -1,0 +1,81 @@
+Il s’agit d’un homme âgé de 41 ans qui mesure 1,9 m et pèse 74 kg. Il a des antécédents de douleur chronique, de dépression, de reflux gastro-oesophagien, d’onychomycose, de rétention urinaire et du virus de l’immunodéficience humaine (VIH). Sa médication à l’admission est présentée au tableau I.
+
+Neuf jours avant d’être hospitalisé, le patient a commencé à prendre du béthanéchol 20 mg au coucher pour traiter sa rétention urinaire. À la suite de la prise du béthanéchol, le patient s’est plaint de vertiges occasionnels. Quatre jours avant son hospitalisation, les doses de béthanéchol ont été augmentées à 10 mg le matin et 20 mg au coucher. Le patient a alors présenté des étourdissements et des palpitations fréquentes. La nuit précédant son admission, le patient a perdu conscience et a chuté.
+
+Il a donc été admis d’urgence à l’hôpital, et l’électrocardiogramme (ÉCG) a révélé un allongement de l’intervalle QTc de 502 ms et une arythmie de type TdP. La fréquence cardiaque (77 bpm) et la tension artérielle (115/70 mmHg) étaient normales à l’arrivée du patient. Le potassium (3,9 mmol/L) et le magnésium (0,77 mmol/L) étaient aussi dans les cibles, mais le patient présentait une légère hypocalcémie (2,09 mmol/L). Enfin, la clairance de la créatinine calculée du patient était de 75 mL/minute. Elle était diminuée par rapport à la clairance normale du patient (environ 90 mL/min), ce qui peut s’expliquer par une augmentation des créatines kinases (10 691 U/L, normalement niveaux inférieurs à 195 U/L) causée par la chute du patient.
+
+Le principal but de l’équipe traitante était de trouver la ou les causes de l’allongement de l’intervalle QTc et de les éliminer si possible. Les médicaments suspectés a priori étaient la méthadone, le béthanéchol, la mirtazapine, le sirop de théophylline et la terbinafine. Ils ont tous été cessés au jour 1 à l’exception de la méthadone 110 mg à prendre trois fois par jour qui a été diminuée graduellement jusqu’à une dose de 20 mg à prendre trois fois par jour.
+
+Tableau I : Histoire médicamenteuse et évolution de la réaction indésirable
+Médicaments Posologie Commentaires
+Méthadone 110 mg, TID Débutée le 09/2004
+Dose stable depuis 04/2005
+Fentanyl 200 μg, q3j Débuté le 10/ 2003
+Dose stable depuis 09/2004
+Morphine 420 mg, BID Débutée : 2002
+(Ms ContinMD) Dose stable depuis 02/2005
+Hydromorphone 16 mg q3h, au besoin Débutée : 2002
+Dose stable depuis 02/2005
+Gabapentin 800 mg, BID et 1200 mg, HS —
+Calcitonine 200 UI, intra-nasal, DIE —
+Clonazepam 0,5 mg, BID et 1 mg, HS —
+Mirtazapine 30 mg, BID Débutée : 2001
+Béthanéchol 10 mg, le matin et 20 mg, HS Débuté : 9 jours avant hospitalisation
+Terbinafine 250 mg, DIE Débutée : 01/2005
+Pantoprazole 40 mg, BID —-
+Théophylline sirop 165 mg, au besoin Dernière prise : 1 semaine avant hospitalisation
+Carbonate de calcium 1000 mg, DIE —
+Vitamine D 800 UI, DIE —
+
+Évolution de la réaction (Janvier Février Mars Avril Mai)
+en Jours d’hospitalisation
+... Début terbinafine 250 mg DIE
+... Méthadone 110 mg TID (augmentation de 5 mg TID)
+-9 Début béthanéchol 20 mg au coucher
+-7 Prise de 165 mg de théophylline
+-4 Augmentation béthanéchol 10 mg le matin et 20 mg au coucher
+0 Syncope et TdP
+1 Diminution méthadone à 80 mg TID. Arrêt : béthanécol, mirtazapine, terbinafine, théophylline
+4 Diminution méthadone à 60 mg TID
+5 Diminution méthadone à 40 mg TID
+6 Reprise mirtazapine Diminuée à 30 mg DIE
+7 Diminution méthadone à 20 mg TID
+17 Reprise terbinafine 250 mg DIE
+
+Lors des deux premiers jours d’hospitalisation, le patient a reçu des chocs de 200 joules (cardioversion électrique), car les TdP ne s’arrêtaient pas spontanément. Il a en plus reçu du magnésium IV, du potassium IV, de l’isoprotérénol et des antiarythmiques. Du furosémide par voie IV et de la nitroglycérine IV ont également été ajoutés parce que le patient avait une surcharge pulmonaire. Du troisième au sixième jour, le patient a présenté plusieurs ébauches de TdP. Des bolus d’atropine IV ont alors été donnés. La méxilétine a aussi été débutée pour aider à stabiliser l’état du patient. Enfin, à partir du jour 7, R.M. n’a plus présenté de TdP. L’évolution de la réaction est présentée au tableau I et les détails du traitement reçu sont présentés au tableau II.
+
+Tableau II : Traitement aigu et monitoring
+Traitement Jours d’hospitalisation
+Non pharmacologique 1 2 3 4 5 6 7 8 9 10 11 12 13 14-17
+Cardioversion électrique 200 J, prn 2x 2x
+Pharmacologique
+Médicaments Posologie
+MgSO4 2 g, IV, prn
+Mg Rougier 30 mL, PO, TID
+Mg élémentaire 200 mg , PO, TID
+KCl 40 mEq, IV
+Potassium élémentaire 40 mEq, PO, BID
+40 mEq, PO, DIE
+20 mEq, PO, DIE
+Amiodarone 150 mg, IV
+Lidocaïne Perfusion IV 1 mg/min
++ bolus 25-100 mg IV prn
+Méxilétine 100 mg, PO, TID
+Isoprotérénol Perfusion IV 3 mcg/ min
+Atropine 1 mg, IV, prn 3x 3x 1x 2x
+Nitroglycérine (TridilMD) Perfusion 5-8 mcg / min
+Furosemide 20 mg, IV, BID
+20 mg , PO, BID
+20mg, PO, DIE
+Morphine dose totale mg,
+IV, prn 45 130 70 50 115 35
+Éléments à monitorer Cibles
+QTc < 440 ms 502 452 659 409 467 455 453 438 — 460 — 411 399 446
+509 423 740 479
+Torsade de pointes — X X X X X X
+Fréquence cardiaque
+moyenne — 92 94 81 68 69 60 61 63 73 63 76 67 85 73
+Potassium 3,5-5,4 mmol/L 3,9 3,9 4,0 4,4 4,2 4,3 4,4 4,3 4,7 3,8 4,3 3,9 — 4,1
+Magnésium 0,65-1,05 mmol/L 0,77 0,80 1,07 0,90 - 0,84 0,96 0,75 0,71 0,76 0,93 0,78 - 0,81
+Calcium 2,15-2,55 mmol/L 2,09 2,10 2,07 2,14 2,26 2,20 2,23 2,24 2,26 2,21 2,22 2,25 - 2,19
+Légende : sevrage

@@ -1,0 +1,8 @@
+entity_group,score,word,start,end
+DISO,0.5310292,ur,34,36
+DISO,0.74735606,douleur oedème,53,68
+ANAT,0.6241265,pénis,71,77
+ANAT,0.5609084,bourses,84,92
+PROC,0.97879225,traitement,104,115
+PROC,0.9789817,Traitement,127,138
+PROC,0.8059895,Chirurgical Section,140,160

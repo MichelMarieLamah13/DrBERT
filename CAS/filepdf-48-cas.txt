@@ -1,0 +1,25 @@
+M.... Pierre, 75 ans, porteur d'une volumineuse tumeur du pôle inférieur du rein droit découverte à l'occasion du bilan d'une hématurie importante et de douleurs lombaires, avec suspicion de thrombus cave à l'échographie. Le bilan scanographique de la lésion est réalisé sur un appareil multibarrette (Somatom V2, Siemens, Erlangen).
+
+L'injection iodée est effectuée dans une veine périphérique antibrachiale, au débit de 3 ml/s.
+
+L'acquisition spiralée est réalisée à différents temps : avant injection, au temps artériel (± 17 secondes, défini par une injection test), au temps veineux (45 secondes ), et à la phase excréto-urinaire (3 mn).
+
+Outre les coupes axiales, des reconstructions sont effectuées (MPR*, VRT**, …). Les phases artérielle et veineuse sont réalisées en 4*1 (collimation de 1 mm). Les coupes sont reconstruites en 1,5 mm et tous les 0,8 mm pour les MPR.
+
+Ce scanner permet un bilan précis des lésions :
+- Visualisation de la tumeur et mise en évidence des caractéristiques évocatrices d'un néoplasme (rehaussement précoce, hypodensité aux temps tardifs) (Figure 1A).
+
+- L'anatomie veineuse est également bien visualisée :
+• Il existe un thrombus de la veine cave inférieure développé à partir de la veine rénale, s'étendant sur plus de 5 cm mais restant à distance des veines sus-hépatiques qui sont bien visualisées (Figure 2).
+• Il existe un deuxième thrombus de la veine cave développé à partir de la veine génitale envahie par la tumeur (Figure 2).
+• Le scanner met par ailleurs en évidence la présence de deux veines lombaires sous-rénales, l'une avec un trajet rétro-aortique pré-vertébral, l'autre un trajet antéropostérieur latéro-vertébral (Figures 1a et 1b).
+
+- L'artère rénale droite est unique, située au bord inférieur de la face postérieure de la veine rénale gauche (Figure 3a à 3d).
+
+- L'uretère est visualisé avec une extension tumorale à sa partie supérieure (Figure 3a).
+
+Compte tenu de l’extension limitée du thrombus cave, le patient est opéré par simple voie sous-costale. L'abord premier en inter-aortico-cave permet de trouver facilement et de lier l'artère rénale au bord inférieur de la veine rénale gauche. La veine cave inférieure est disséquée en sus et sous-rénal. Les deux veines lombaires repérées au scanner sont liées et sectionnées. Il n'y a pas d'autre veine lombaire.
+
+Après clampage par tourniquet de la VCI sous-rénale et de la veine rénale gauche, une phlébotomie cave sur la veine rénale, associée à une manœuvre de Valsalva permet de refouler le thrombus cave sous le lac puis de clamper la veine cave sus-rénale. L'exploration du segment cave inférieur ainsi isolé, peut être faite de façon exsangue. L'extraction des thrombi néoplasiques est réalisée de façon complète en excisant les ostia de la veine rénale droite et de la veine génitale auxquelles le thrombus adhère.
+
+Après fermeture des cavotomies, le flux sanguin veineux est rétabli et la néphrectomie élargie droite réalisée en emportant l'uretère jusqu'en région iliaque, à distance de la zone tumorale. L'analyse histologique de la pièce confirme le carcinome à cellules claires, la nature néoplasique des thrombi et l'extension tumorale de la partie haute de l'uretère.

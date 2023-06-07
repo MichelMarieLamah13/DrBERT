@@ -1,0 +1,143 @@
+Une femme de 50 ans d’origine africaine s’est présentée au service des urgences avec des symptômes d’atteinte neurologique de confusion, d’ataxie, de paresthésie et de céphalées. Elle n’avait aucun antécédent médical connu, puisqu’elle n’avait pas consulté de médecin depuis des années. Elle ne prenait aucun médicament ni produit de santé naturel, n’avait pas d’allergie, ne fumait pas et ne consommait pas d’alcool. Les symptômes décrits s’étaient progressivement aggravés au cours des deux dernières semaines. Elle avait aussi noté une perte de poids au cours des derniers mois. Une prise de sang révéla une pancytopénie ainsi qu’une insuffisance rénale avec une clairance de la créatinine estimée à 45 ml/min selon la formule de Cockcroft et Gault pour un poids de 48,2 kg et un taux de créatinine sérique de 98 µmol/L7. Les valeurs de laboratoire à l’admission de la patiente sont détaillées dans le tableau I. Les examens radiologiques, tels qu’une tomoden­ sitométrie axiale cérébrale ainsi que des imageries cérébrales par résonance magnétique et des tests microbiologiques ont permis aux médecins de poser un diagnostic de toxoplasmose cérébrale associée à un œdème cérébral. Par la suite, d’autres analyses ont révélé la présence du VIH et du VHC. À son admission, le taux de lymphocytes T CD4 était de 46 cellules/µl (numération normale : 700 à 1100 cellules/µl) et la charge virale était de 140 896 copies/ml.
+
+Tableau I. Résultats des épreuves de laboratoire avant le traitement
+Épreuve de laboratoire (valeur normale)*
+Valeurs de base de la patiente
+Créatinine sérique (80 – 110 μmol/L ) 98 μmol/L
+Leucocytes (4,5 – 10,8 x 109/L) 1,9 x 109/L
+Neutrophiles (1,8 – 7 x 109/L) 1,0 x 109/L
+Érythrocytes (4 – 5,5 x 109/L) 3,19 x 109/L
+Hémoglobine (118 – 158 g/L) 92 g/L
+Hématocrite (0,37 – 0,47) 0,267
+Plaquettes (140 – 440 x 109/L) 106 x 109/L
+AST (0 – 40 U/L)
+ALT (0 – 40 U/L)
+38 U/L
+15 U/L
+Bilirubine totale (0 – 21 μmol/L) 8 μmol/L
+Lactate déshydrogénase (93 – 210 U/L) 214 U/L
+GGT (0 – 40 U/L) 34 U/L
+Phosphatase alcaline (30 – 110 U/L) 34 U/L
+*Adapté des valeurs de références de l’Hôpital Maisonneuve-Rosemont et de la référence 9
+ALT : alanine aminotransférase; AST : aspartate aminotransférase; GGT : gamma glutamyltransférase
+
+En guise de traitement de l’œdème secondaire à la toxoplasmose cérébrale, la patiente a reçu de la dexaméthasone, d’abord 4 mg en intraveineuse toutes les six heures pendant 24 heures, puis 2 mg par voie orale toutes les six heures pendant 24 heures, enfin 1 mg par voie orale toutes les six heures pendant 24 heures. Afin d’éradiquer la toxoplasmose, un traitement oral à base de pyriméthamine, d’acide folinique et de sulfadiazine a été entrepris au jour 1. Quant à la pyriméthamine, la patiente en a reçu une dose de charge de 200 mg, puis une dose quotidienne de 75 mg. Pour ce qui est de l’acide folinique, la patiente a reçu une dose de 50 mg une fois par jour jusqu’au jour 6, puis 15 mg une fois par jour. La dose de sulfadiazine était de 1 500 mg quatre fois par jour. Le tableau II résume les choix de traitement à l'infection Toxoplasma gondii.
+
+Le jour 7, l’équipe médicale a entrepris un traitement oral contre le VIH constitué de ténofovir (300 mg une fois par jour), d’emtricitabine (200 mg une fois par jour), d’atazanavir (300 mg une fois par jour) et de ritonavir (100 mg une fois par jour). Aucun traitement du VHC n’a été entrepris durant l’hospitalisation.
+
+Dès l’admission de la patiente, les taux d’enzymes hépatiques ont progressivement augmenté pour atteindre leur maximum au jour 13, à 473 U/L pour l’aspartate aminotransférase (AST) et à 193 U/L pour l’alanine aminotransférase (ALT). Le traitement par antirétroviraux (ARV) a donc été interrompu, et la sulfadiazine a été remplacée par la clindamycine (600 mg quatre fois par jour, d’abord par voie intraveineuse pendant dix jours, puis par voie orale). Les taux d’AST et d’ALT ont progressivement diminué. Au jour 22, les ARV ont été réintroduits aux mêmes doses sans qu’on observe une augmentation des taux d’enzymes hépatiques. Environ deux semaines plus tard, un traitement oral au triméthoprimesulfaméthoxazole (TMP-SMX;160mg-800mg trois fois par semaine) a été entrepris pour prévenir une infection opportuniste à Pneumocystis jiroveci. Les taux d’enzymes hépatiques ont progressivement augmenté à nouveau en cinq jours. La figure 1 présente l’évolution des résultats des épreuves de laboratoire permettant d’évaluer la fonction hépatique. Le TMP-SMX a alors été remplacé par la dapsone, 100 mg une fois par jour par voie orale. Les taux d’enzymes hépatiques sont revenus à leur niveau de base en trois jours.
+
+Tableau II. Choix de traitement de l’infection à Toxoplasma gondii1,2,4
+Traitement Posologie
+1re ligne Pyriméthamine
++ acide folinique
++ sulfadiazine
+200 mg en une dose, puis 50 mg (< 60 kg) à 75 mg (≥ 60 kg) une fois par jour
+10 à 25 mg une fois par jour
+1000 mg (< 60 kg) à 1500 mg (≥ 60 kg) toutes les six heures
+2e ligne Pyriméthamine
++ acide folinique
++ clindamycine
+200 mg en une dose, puis 50 mg (< 60 kg) à 75 mg (≥ 60 kg) une fois par jour
+10 à 25 mg une fois par jour
+600 mg IV ou par voie orale toutes les six heures
+Autres possibilités TMP-SMX 5 mg/kg TMP et 25 mg/kg SMX IV ou par voie orale deux fois par jour
+Sulfadiazine 1000 mg (< 60 kg) à 1500 mg (≥ 60 kg) toutes les six heures
+Atovaquone
++ pyriméthamine
++ acide folinique
+1500 mg deux fois par jour avec des aliments
+200 mg en une dose, puis 50 mg (< 60 kg) à 75 mg (≥ 60 kg) une fois par jour
+10 à 25 mg une fois par jour
+Atovaquone
++ sulfadiazine
+1500 mg deux fois par jour avec des aliments
+1000 mg (< 60 kg) à 1500 mg (≥ 60 kg) toutes les six heures
+Atovaquone 1500 mg deux fois par jour avec des aliments
+Pyriméthamine
++ acide folinique
++ azithromycine
+200 mg en une dose,puis 50 mg (< 60 kg) à 75 mg (≥ 60 kg) une fois par jour
+10 à 25 mg une fois par jour
+900 à 1200 mg une fois par jour
+IV : par voie intraveineuse; TMP-SMX : triméthoprime-sulfaméthoxazole
+
+Jour 1 7 10 12 13 14 16 19 20 22 27 29 32 33 37 40 42
+MÉDICAMENTS
+Pyrimethamine
+200 mg
+x1 dose
+75 mg
+1 x/j
+Acide folinique
+50 mg
+1 x/j
+15 mg
+1 x/j
+Sulfadiazine
+150 mg
+4 x/j cessé
+Clindamycine
+600 mg
+IV 4 x/jour
+600 mg PO
+4 x/jour
+Dexaméthasone
+4 mg IV
+4 x/j cessé
+Tenofovir/emtricitabine -
+300/200 mg
+1 x/j cessé
+300/200 mg
+1 x/j
+300/200 mg
+aux 2 jours
+Atazanavir - 300 mg 1 x/j cessé 300 mg 1 x/j
+Ritonavir - 100 mg 1 x/j cessé 100 mg 1 x/j
+TMP-SMX
+160/800 mg
+3 x/sem cessé
+Dapsone
+100 mg
+1 x/jour
+LABORATOIRES
+ALT (0-40 U/L) 15 - 64 156 198 165 124 71 61 44 40 36 - 28 57 41 -
+AST (0-40 U/L) 38 - 116 366 447 337 153 69 56 43 58 47 - 45 114 53 -
+Bilirubine totale (0-21 umol/L) 8 - - 17 25 26 10 7 9 19 11 12 - 20 23 21 -
+GGT (0-40 U/L) 34 - 46 - 69 74 118 115 115 99 105 113 - 108 110 121 -
+LD (93-210 U/L) 214 - 446 - - - - - 294 - - 241 - 247 379 - -
+Ph. Alc. (30-110 U/L) 34 - 45 36 35 39 62 - 63 58 68 74 - 79 75 - -
+idem
+-
+-
+idem
+idem
+idem
+-
+-
+-
+idem
+idem
+idem
+idem
+idem
+idem
+- idem
+idem
+Figure 1. Chronologie des événements
+ALT : alanine aminotransférase; AST : aspartate aminotransférase; GGT : gamma glutamyl transférase; IV : intraveineux; LD : lactate déhydrogénase; Ph. Alc. : phosphatase alcaline;
+PO : par la bouche; TMP-SMX : triméthoprime-sulfamethoxazole
+
+Tableau III. Posologie des médicaments par voie orale au retour à domicile
+Pyriméthamine 75 mg une fois par jour
+Acide folinique 15 mg une fois par jour
+Clindamycine 600 mg quatre fois par jour
+Dapsone 100 mg une fois par jour
+Ténofovir 300 mg tous les deux jours
+Emtricitabine 200 mg tous les deux jours
+Atazanavir 300 mg une fois par jour
+Ritonavir 100 mg une fois par jour
+
+Dans le cas de cette patiente, bien qu’il s’agisse d’une option de dernière ligne, il était approprié d’interrompre la thérapie antirétrovirale, puisque les taux d’AST et d’ALT atteignaient dix fois la normale2,19. Une fois ces taux redevenus normaux, il est possible de reprendre les ARV2-4,19. Un suivi étroit de la fonction hépatique doit alors être mis en place2,3,19. Le remplacement de la sulfadiazine par la clindamycine est l’option à privilégier, et les cotraitements restent inchangés1-3. La durée du traitement varie en fonction de l’évolution clinique et radiologique, mais elle doit atteindre au minimum six semaines et n’est pas influencée par le changement de thérapie1-3,20.
+
+Après deux mois d’hospitalisation, la patiente est retournée chez elle avec les médicaments décrits dans le tableau III. Elle ne présentait plus de symptômes neurologiques de toxoplasmose, et son bilan hépatique était normal. Le VHC n’a pas été traité pendant cette hospitalisation et a été pris en charge en externe.

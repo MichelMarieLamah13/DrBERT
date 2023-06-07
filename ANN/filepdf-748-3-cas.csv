@@ -1,0 +1,30 @@
+entity_group,score,word,start,end
+LIVB,0.8779726,femme de 45 ans,15,31
+DISO,0.97370774,dépressive,32,43
+PROC,0.8676069,traitée,46,54
+DISO,0.9669196,syndrome de,62,74
+ANAT_DISO,0.6580728,jambes,74,81
+ANAT_DISO,0.5459087,repos,86,92
+CHEM,0.87105346,ropinirole,96,107
+CHEM,0.69693375,"0,75 mg",109,116
+CHEM,0.32689202,soir,119,124
+DISO,0.944932,syndrome des,129,142
+ANAT_DISO,0.60179317,jambes,142,149
+DISO,0.15970324,repos,154,160
+CHEM,0.90751624,ropinirole,234,245
+DISO,0.7125181,somnolence diurne excessive,282,309
+PROC,0.9206517,changement thérapeutique,314,339
+CHEM,0.5778211,"pramipexole 1,5 cp x 3/ jour",344,373
+DISO,0.34502563,comportement,440,453
+DISO,0.4502559,jeu pathologique,456,473
+DISO,0.89916277,trouble du contrôle des impulsions,514,549
+DISO,0.7716925,compulsion,573,584
+ANAT_DISO,0.16639376,alimentaire,584,596
+PHYS,0.36396188,prise,601,607
+PHYS,0.35458428,poids,610,616
+CHEM,0.27648956,de 7 kg,616,624
+PROC,0.35237178,prise,650,656
+CHEM,0.8590385,pramipexole,659,671
+DISO,0.79795384,régression,688,699
+DISO,0.9458311,troubles du,703,715
+ANAT_DISO,0.6384423,comportement,715,728

@@ -1,0 +1,35 @@
+Nous rapportons l'observation d'un homme âgé de 34 ans qui a initialement consulté en septembre 2002 devant la découverte d'une hydrocèle droite associée à une hernie inguinale gauche pour lesquelles aucun examen complémentaire, ni traitement n'ont été proposés.
+
+En novembre 2003, en raison d'une augmentation importante du volume de la bourse droite, le patient a consulté un urologue qui devant une hydrocèle associée à une induration du testicule sous jacent, a demandé une échographie testiculaire. Celle-ci retrouvait un aspect tumoral du testicule droit associé à un envahissement de l'albuginée et du cordon.
+
+Les marqueurs tumoraux sériques étaient normaux.
+
+Une tomodensitométrie (TDM) thoraco-abdomino-pelvienne retrouvait :
+
+- A l'étage thoracique, un aspect de "lâcher de ballons" pulmonaire associé à une adénopathie médiastinale supra centimétrique.
+
+- A l'étage abdominal, une adénopathie inter aortico-cave de 19 mm de diamètre et une autre siégeant au niveau de la bifurcation aortique de 13 mm de diamètre. Aucune masse péritonéale ou aucun épanchement n'a été mis en évidence. On retrouvait 2 lésions hépatiques de 4 et 5 mm de diamètre difficilement interprétable.
+
+- Au niveau pelvien une hernie inguinale bilatérale sans incarcération digestive.
+
+Après prélèvement de sperme, une orchidectomie droite par voie inguinale avec clampage premier du cordon et curage ilio-obturateur homolatéral a été réalisée.
+
+L'examen macroscopique de la pièce opératoire retrouvait une tumeur blanche nacrée, hétérogène, composée d'un nodule intratesticulaire de 5 cm de grand axe, infiltrant les enveloppes, et de plusieurs nodules, sur toute la longueur du cordon, dont un de 6 cm à sa partie supérieure.
+
+L'étude microscopique montrait une prolifération cellulaire d'allure épithéliale (Figure 1), disposée en massifs, à centre parfois nécrotique, en lobules, ou plus rarement en tubes, au sein d'un stroma fibreux, dense, d'abondance variable (Figure 2). Les cellules tumorales étaient de taille petite à moyenne, à cytoplasme acidophile ou plus clair, à limites floues et à noyau régulier, inconstamment nucléolé avec une chromatine hétérogène (Figure 3). L'index mitotique était modéré (5 mitoses pour dix champs à fort grossissement). La tumeur s'accompagnait de très nombreux embols vasculaires, envahissait les enveloppes testiculaires et infiltrait le tissu adipeux au niveau du cordon.
+
+En immuno-histochimie, les cellules tumorales exprimaient fortement la KL1 (Figure 4) ainsi que la Vimentine et la desmine avec, pour ces dernières, un renforcement du marquage caractéristique en "globules paranucléaires" (Figure 5). Elles exprimaient de façon hétérogène l'EMA, la NSE et le CD99. En revanche, elles n'étaient pas marquées par les anticorps anti-Inhibine, Myogénine ou Calrétinine, ni par les marqueurs neuroendocrines.
+
+Devant ces arguments morphologiques et immunohistochimiques, le diagnostic de tumeur desmoplastique à petites cellules rondes (TDPCR) du cordon spermatique, poly métastatique avec envahissement du testicule, était retenu.
+
+Le patient a été revu en consultation à la clinique urologique du CHU de Nantes pour la prise en charge ultérieure du traitement, 3 semaines après la chirurgie initiale.
+
+L'examen retrouvait une masse dure inguinale gauche dont l'exérèse a été décidée en raison de son caractère rapidement évolutif, afin de confirmer son origine secondaire, et dans ce cas, de réaliser une recherche du transcrit de fusion EWS-WT1 par RT-PCR (Reverse Transcriptase-Polymérase Chain Reaction) pour affirmer le diagnostic.
+
+La pièce d'exérèse mesurait 4,5cm x 3 cm x 3 cm, était situé dans le canal inguinal gauche et était associée à des nodules de carcinose péritonéale.
+
+L'examen histologique confirmait qu'il s'agissait de foyers de tumeur desmoplastique à petites cellules rondes. La recherche par RT-PCR du transcrit de fusion EWS-WT1 était positive.
+
+Un traitement complémentaire par 6 cures de chimiothérapie selon un protocole AVCP (Adriamycine/Vépéside/Cyclophosphamide/ CISPLATINE) a été réalisé.
+
+La tolérance de ces 6 cures a été satisfaisante. La TDM de contrôle à la fin du traitement initial notait une disparition complète des lésions pulmonaires et médiastinales et retrouvait une adénopathie résiduelle lombo-aortique de 17 mm x 11 mm. Devant cette évolution favorable, une chimiothérapie d'entretien selon un protocole de 8 cures associant Vincristine, Actinomycine et Ifosfamide (VAI) a été initiée et est actuellement en cours.

@@ -1,0 +1,23 @@
+entity_group,score,word,start,end
+LIVB,0.8948889,Femme,0,5
+LIVB,0.9492775,73 ans,8,15
+LIVB,0.94149345,enfant,37,44
+PROC,0.92768085,césarienne,48,59
+DISO,0.9531647,prolapsus,103,113
+LIVB,0.98292667,patiente,152,161
+DISO,0.56934977,insuffisance,174,187
+ANAT_DISO,0.5330601,rénale,187,194
+ANAT,0.3221739,ur,215,218
+ANAT,0.3487428,sanguine,220,229
+CHEM,0.66147196,mmol/l de sérum,234,250
+PROC,0.8865264,urographie intraveineuse,258,282
+DISO,0.86917514,dilatation,295,306
+ANAT_DISO,0.5624136,urétéropyélocalicielle,306,329
+PHYS,0.28684524,tension,360,368
+ANAT,0.34692904,artérielle,368,379
+ANAT_PROC,0.4117365,pessaire,414,423
+CHEM,0.6164332,urée,496,500
+ANAT,0.3979025,sanguine,500,509
+CHEM,0.56668645,mmol/l,519,526
+LIVB,0.6536669,patiente refuse,530,546
+PROC,0.9503065,geste chirurgical complémentaire,551,584

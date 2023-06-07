@@ -1,0 +1,13 @@
+entity_group,score,word,start,end
+LIVB,0.9533286,jeune femme de 22 ans,3,25
+GEOG,0.5511085,Janvier,148,156
+CHEM,0.9125351,caféine,169,177
+CHEM,0.8810407,nicotine,186,195
+CHEM,0.35572192,metabolites,204,216
+ANAT,0.77378374,urines,240,247
+CHEM,0.9447274,quinine,264,272
+CHEM,0.929529,terpine,281,289
+CHEM,0.38665777,boisson,329,337
+CHEM,0.41390038,antitussive,355,367
+CHEM,0.89415157,produits,395,404
+DISO,0.37869093,soumission,426,437

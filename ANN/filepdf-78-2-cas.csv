@@ -1,0 +1,50 @@
+entity_group,score,word,start,end
+LIVB,0.62025064,B. M.,0,5
+LIVB,0.55531067,ans,10,14
+LIVB,0.30873528,diabétique,15,26
+LIVB,0.64356565,ans,36,40
+PROC,0.95011723,traitée,41,49
+CHEM,0.93120563,sulfamides hypoglycémiants,57,84
+DISO,0.84837985,pyélonéphrite aiguë,129,149
+PROC,0.83590186,antibiothérapie,169,184
+LIVB,0.9071991,patiente,188,197
+PROC,0.8541596,examen clinique,233,248
+ANAT,0.7747161,flanc gauche,273,286
+DISO,0.6452977,météorisme,292,303
+PROC,0.74111533,bilan biologique,315,332
+DISO,0.8868982,hyperglycémie,345,359
+CHEM,0.5026547,mmol/l,364,371
+CHEM,0.666363,créatininémie,376,390
+CHEM,0.7808568,120 mmol/L,392,403
+DISO,0.9606571,hyperleucocytose,410,427
+ANAT,0.4944418,mm3,446,449
+LIVB,0.6140829,uros,455,459
+PROC,0.4470501,canner,459,465
+DISO,0.32086283,air,502,505
+ANAT,0.58862853,parenchyme rénal gauche,516,540
+ANAT,0.50667,capsule rénale,567,582
+PROC,0.6808062,diagnostic,587,598
+DISO,0.9273326,pyélonéphrite emphysémateuse,601,630
+LIVB,0.78302133,âge jeune,654,663
+LIVB,0.92702043,patiente,669,678
+DISO,0.66682076,état,683,688
+DISO,0.7183226,lésions parenchymateuses,721,746
+PROC,0.7251491,drainage percutané,759,778
+PROC,0.7008042,réalisé,784,792
+PROC,0.874798,contrôle tomodensitométrique,797,826
+PROC,0.88397044,réanimation,843,855
+PROC,0.7495874,antibiothérapie,877,893
+PROC,0.953022,insulinothérapie,900,917
+PROC,0.77271676,drainer,933,941
+DISO,0.50539064,pus,950,954
+PROC,0.660311,culture,962,970
+LIVB,0.9586089,sscherichia coli,1005,1022
+CHEM,0.76656485,fluoroquinolones,1035,1052
+LIVB,0.9665477,patiente,1067,1076
+DISO,0.49698424,apyrexie,1107,1116
+PROC,0.90523636,drainage,1137,1146
+LIVB,0.40426576,contrôle TDM,1181,1194
+LIVB,0.88258976,patiente,1206,1215
+PROC,0.72002214,-opératoire,1254,1265
+PROC,0.9501734,insulinothérapie,1270,1287
+PROC,0.96437263,antibiothérapie,1290,1306

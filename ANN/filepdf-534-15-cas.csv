@@ -1,0 +1,11 @@
+entity_group,score,word,start,end
+LIVB,0.9749335,jeune fille,3,15
+CHEM,0.6829282,boissons alcoolisées,30,51
+PROC,0.82734126,prélèvements,91,104
+ANAT,0.5309443,urine,157,162
+CHEM,0.9743777,métoclopramide,186,201
+CHEM,0.9439853,Primpéran®,203,213
+CHEM,0.9684208,Diclofenac,234,245
+CHEM,0.8790533,Voltarène®,247,257
+CHEM,0.9371803,produits,320,329
+LIVB,0.8398788,victime,363,371

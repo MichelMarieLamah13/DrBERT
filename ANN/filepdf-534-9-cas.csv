@@ -1,0 +1,7 @@
+entity_group,score,word,start,end
+LIVB,0.97374237,jeune fille de 15 ans,3,25
+CHEM,0.7425381,consommé,67,76
+CHEM,0.9075619,cannabis,79,88
+CHEM,0.8944728,produits stupéfiants,146,167
+ANAT,0.84542245,urines,176,183
+CHEM,0.84557736,THC-COOH,197,206

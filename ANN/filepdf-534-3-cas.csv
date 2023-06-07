@@ -1,0 +1,14 @@
+entity_group,score,word,start,end
+LIVB,0.95635283,jeune fille de 16 ans,3,25
+CHEM,0.6634826,boisson gazeuse,85,101
+ANAT,0.75327826,cola,111,116
+ANAT,0.71198636,urines,122,129
+CHEM,0.61332196,boisson,161,169
+PROC,0.8910619,analyses,195,204
+CHEM,0.96403146,bromazépam,209,220
+CHEM,0.9388523,i,224,226
+CHEM,0.9493988,ibuprofène,227,237
+CHEM,0.91979945,caféine,246,254
+ANAT,0.7860636,urines,284,291
+CHEM,0.584506,produits,319,328
+CHEM,0.5064715,boisson gazeuse,345,361

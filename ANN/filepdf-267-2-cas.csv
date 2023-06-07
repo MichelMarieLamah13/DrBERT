@@ -1,0 +1,10 @@
+entity_group,score,word,start,end
+DISO,0.20613378,coïtal,48,55
+DISO,0.89666283,douleur,66,74
+DISO,0.78629,edeme,76,81
+DISO,0.8346004,déviation du,83,96
+ANAT_DISO,0.8309294,pénis,96,102
+PROC,0.977512,traitement,114,125
+PROC,0.9775709,Traitement,135,146
+PROC,0.8598005,Chirurgical,148,160
+DISO,0.82596195,ome rupture,166,177

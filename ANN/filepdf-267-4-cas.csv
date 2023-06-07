@@ -1,0 +1,10 @@
+entity_group,score,word,start,end
+LIVB,0.4517304,mari,22,27
+DISO,0.6299628,Douleur oedème,44,59
+DISO,0.50364184,déviation,60,69
+ANAT_DISO,0.58277446,pénis,72,78
+PROC,0.9725457,traitement,101,112
+PROC,0.9783079,Traitement,124,135
+PROC,0.83548033,Chirurgical,137,149
+DISO,0.8943403,ome rupture,155,166
+PROC,0.5894134,ostic,198,203

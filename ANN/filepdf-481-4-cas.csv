@@ -1,0 +1,16 @@
+entity_group,score,word,start,end
+LIVB,0.8731148,homme âgé,2,12
+LIVB,0.9195852,23 ans,15,22
+CHEM,0.5829092,sachets de poudre de MXE,81,106
+DISO,0.9156421,symptômes,192,202
+DISO,0.88433546,confusion,256,266
+DISO,0.94373995,mydriase,271,280
+DISO,0.9708717,hypertension,285,298
+DISO,0.9479449,hyperleucocytose,317,334
+ANAT,0.4159851,iga,343,346
+DISO,0.8608688,coma,352,357
+PROC,0.6067485,bilan,372,378
+ANAT_PROC,0.42988124,sanguin,392,400
+ANAT_PROC,0.37129372,urinaire,403,412
+LIVB,0.8467555,patient,435,443
+PROC,0.6684673,surveillance,462,475

@@ -1,0 +1,48 @@
+Âgée de 22 mois, pesant 11 kg, d’origine chinoise, adoptée depuis l’âge de 12 mois, A.B. se présente à l’urgence d’un hôpital périphérique avec de la fièvre qui persiste depuis la veille, associée à une détérioration de l’état général et à de l’irritabilité.
+
+Ses antécédents médicaux sont inconnus, de même que son histoire familiale. Sa vaccination est à jour, sauf pour l’hépatite B pour laquelle elle n’a reçu qu’une dose. Elle n’a pas été vaccinée contre la varicelle ni contre le pneumocoque (vaccin heptavalent). Le contexte précédant cet épisode fébrile est sans particularité (aucun contact infectieux connu, aucun voyage récent, ne fréquente pas la garderie). Elle ne présente aucun symptôme urinaire, digestif ou respiratoire.
+
+Dès son admission, on commence la céfuroxime IV en traitement empirique dans le but de couvrir les germes les plus fréquemment retrouvés lors d’infections des voies respiratoires et otiques chez un enfant de cet âge.
+
+Dans les deux jours qui suivent son arrivée, il y a apparition d’une éruption cutanée pancorporelle, plus marquée dans la région péri-anale, de même qu’un érythème des paumes et des pieds avec œdème. On note également une stomatite, des fissures aux lèvres, une conjonctivite bilatérale non purulente et des adénopathies cervicales en progression (jusqu’à 5 cm x 4,5 cm). La fièvre persiste et l’échographie cardiaque du jour 3 de l’hospitalisation révèle une dilatation uniforme du tronc de l’artère coronaire gauche et de la descendante antérieure, sans évidence de dilatation anévrismale. Le diagnostic de syndrome de Kawasaki est posé ce jour-là, malgré le fait que A.B. n’en soit qu’à son quatrième jour de fièvre. Les valeurs de laboratoires et les signes vitaux pertinents sont présentés au tableau I.
+
+Dès que le diagnostic est posé, A.B. reçoit 20 g d’immunoglobines intraveineuses (IGIV) (2 g/kg) et de l’acide acétylsalicylique (AAS) à 240 mg po qid (87,3 mg/ kg/jour). Les jours 4 et 5, la fièvre persiste. Le jour 5, on administre 10 g d’IGIV (1 g/kg), vu la persistance de la fièvre. Le jour 6, la fièvre continue toujours, mais on cesse l’AAS, car on observe une chute subite de l’hémoglobine (de 115 g/L à l’arrivée, à 91 g/L le jour 4 et 81 g/L le jour 6) et du méléna. A.B. est alors transférée dans un hôpital pédiatrique. On prescrit de l’acétaminophène pour sa fièvre, de l’oméprazole 10 mg po bid et l’on redonne une autre dose d’IGIV de 20 g (2 g/kg).
+
+Le jour 7, on répète l’échographie cardiaque, qui démontre une augmentation de la dilatation du tronc de l’artère coronaire et de l’artère descendante antérieure depuis le dernier examen ainsi qu’une dilatation uniforme de l’artère coronaire droite dans sa portion I. Les portions II et III sont normales. On observe des conjonctives hyperémiées, un amas d’adénopathies de 5 x 4 cm au cou, des lèvres fissurées et une muqueuse buccale framboisée ainsi qu’une desquamation de la région péri-anale. La fièvre continue d’être présente.
+
+Le jour 8, on diagnostique une probable entéropathie exsudative secondaire au Kawasaki. On commence le pantoprazole intraveineux et on recommence l’AAS à 240 mg po qid.
+
+Le jour 9, comme la fièvre refuse de diminuer, on prend la décision d’amorcer une thérapie pulsée de méthylprednisolone 30 mg/kg/dose pendant trois jours. A.B. ne reçoit que deux doses, la fièvre étant tombée le jour 10. Elle obtient son congé de l’hôpital le douzième jour. Le tableau II montre la thérapie reçue tout au long de l’hospitalisation.
+
+L’échocardiographie, répétée chaque mois depuis sa sortie de l’hôpital, a démontré une régression de la dilatation des différentes artères coronaires. Ainsi, trois mois après avoir obtenu son congé, A.B. ne présente maintenant qu’une légère dilatation du tronc de l’artère coronaire gauche. Elle prend toujours de l’AAS à dose antiplaquettaire.
+
+Tableau I : Valeurs de laboratoire et autres paramètres cliniques observés au cours de l’hospitalisation
+Hôpital périphérique Hôpital pédiatrique
+LABORATOIRES JOUR
+PERTINENTS 1 3 5 6 7 8 9 10 11 12 13
+Leucocytes 109/L 20,1 20,5 20,1 28,68 37,3 25,37 21,68 23,95 30,57 27,1
+Neutrophiles 109n/L 12,9 16,6 12,6 20,8 28,5 17,9 16,4 17,8 20,2 14,8
+Plaquettes 109/L 392 364 346 531 655 729 877 996 1008 1146
+Hémoglobine g/L 115 91 81 75 71 68 72 76 81 82
+Albumine g/L 27 19 16 17 19 20 22 24
+Protéine C réactive 359 312 103 77,5
+Vitesse
+de sédimentation 66 69 65 61
+Analyse et
+culture d’urine ✔ Négatif ✔ Négatif
+Culture de gorge ✔ Négatif
+Hémoculture ✔ Négatif ✔
+Temp max.
+(°C, rectale) 41,1 40 40,3 40 39,8 38,6 36,6 36,9 37
+
+Tableau II : Médicaments reçus pendant l’hospitalisation
+Hôpital périphérique Hôpital pédiatrique
+JOUR
+1 2 3 4 5 6 7 8 9 10 11 12 13
+IGIV 2 g/kg 1 g/kg 2 g/kg congé
+AAS 240 mg po qid ✔ ✔ ✔ ✔ ✔
+AAS 40 mg po die ✔ ✔ ✔
+MP IV 30 mg/kg/dose ✔ ✔
+Oméprazole oral ✔ ✔
+Pantoprazole IV ✔ ✔ ✔
+MP : Méthylprednisolone

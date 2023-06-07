@@ -1,0 +1,39 @@
+entity_group,score,word,start,end
+LIVB,0.87588286,homme,14,20
+LIVB,0.68162495,64 ans,23,30
+DISO,0.95330215,maladie de Parkinson,46,67
+PROC,0.8009516,traitée,92,100
+CHEM,0.68865424,ropinirole 5 mg x 3/j,120,142
+CHEM,0.80610055,sélégiline 5 mg x 2/j,151,173
+CHEM,0.9294533,association,203,215
+CHEM,0.8048089,ropinirole 3 mg x 3/j,218,240
+CHEM,0.96081144,carbidopa,243,253
+CHEM,0.8962461,lévodopa 300 mg,255,270
+DISO,0.4651464,tabagisme,313,323
+DISO,0.59577,alcoolisation chroniques,330,355
+PROC,0.8747744,chirurgie,395,405
+ANAT_DISO,0.5258327,canal lombaire étroit,410,432
+DISO,0.9451714,épisode délirant,445,462
+DISO,0.4514476,tr,485,487
+DISO,0.8796503,infarctus,514,524
+ANAT_DISO,0.8094828,cérébral,524,533
+ANAT_DISO,0.43232292,nel,542,545
+DISO,0.7543198,déficit du,561,572
+ANAT_DISO,0.6740675,membre supérieur droit,572,595
+DISO,0.9655159,épisode confusionnel,632,652
+PROC,0.38763,prise,686,692
+CHEM,0.93497,tramadol,695,704
+CHEM,0.90375286,antalgique,705,716
+DISO,0.77051157,suicide,814,822
+DISO,0.95887434,intoxication médicamenteuse,826,854
+PROC,0.49015272,prise,877,883
+CHEM,0.7364016,10 comprimés de ropinirole 2 mg,886,918
+LIVB,0.95974886,patient,970,978
+DISO,0.57792187,déprimé,978,986
+DISO,0.74286747,suicide,1009,1017
+LIVB,0.8688935,patient,1055,1063
+LIVB,0.93446183,homme,1162,1168
+DISO,0.37018716,rimé,1172,1176
+PROC,0.55171,consultations médicales,1220,1244
+LIVB,0.49864605,sujet,1248,1254
+CHEM,0.95360625,ropinirole,1325,1336

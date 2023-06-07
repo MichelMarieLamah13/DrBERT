@@ -1,0 +1,33 @@
+entity_group,score,word,start,end
+PROC,0.91340375,observation,18,29
+LIVB,0.68157065,patientes âgées,37,53
+LIVB,0.47774532,33,56,59
+LIVB,0.9155853,42 ans,62,69
+CHEM,0.6207386,antipaludéens de synthèse,81,107
+DISO,0.947613,polyarthrite rhumatoïde,131,155
+DISO,0.89833325,sclérodermie,162,175
+DISO,0.60897255,poursuivies,186,198
+PROC,0.96580285,traitement,203,214
+PROC,0.7004888,surveillance ophtalmologique,237,266
+PROC,0.5942934,consulter,275,285
+PHYS,0.7123798,acuité visuelle,318,333
+PROC,0.9309247,examen,352,358
+ANAT_PROC,0.541762,ophtalmologique,358,374
+PHYS,0.52802485,acuité visuelle,389,405
+ANAT,0.406484,/10ème,420,426
+PHYS,0.7649433,acuité visuelle,453,469
+PROC,0.68573445,fond d’,521,529
+ANAT_PROC,0.5401755,œil,529,532
+PROC,0.7358815,’angiographie,539,552
+ANAT_PROC,0.4783181,rétinienne,552,563
+CHEM,0.67544824,fluoresceine,568,581
+DISO,0.93617547,maculopathie bilatérale,594,618
+ANAT_DISO,0.4907673,œil,621,625
+ANAT,0.6848303,bœuf,628,633
+PHYS,0.48011836,champ visuel,646,659
+DISO,0.4681091,sc,673,676
+PROC,0.41071916,ot,676,678
+DISO,0.9461039,ome,678,681
+ANAT,0.2988356,central,681,689
+CHEM,0.642501,antipaludéens de synthèse,720,746
+PHYS,0.78765726,acuité visuelle,762,777

@@ -1,0 +1,29 @@
+Une femme de 72 ans, ayant comme antécédents un diabète de type 2, de l’hypertension et une dyslipidémie, se présente à l’urgence d’un centre hospitalier régional pour des nausées qui durent depuis environ quatre semaines mais qui se sont aggravées au cours des derniers jours. En effet, depuis quatre jours, elle est incapable de s’alimenter, mais elle réussit tout de même à prendre ses médicaments. Elle n’a pas de diarrhée, ni de vomissements, ni d’ictère, et sa température est normale. Elle ne souffre pas, et l’examen physique ne révèle rien de particulier. La patiente ne fume pas, ne prend que très rarement de l’alcool et n’a pas d’allergie aux médicaments. Elle n’a pas non plus d’antécédents de maladie hépatique.
+
+L’histoire médicamenteuse complète est présentée au tableau I. On note que, trois mois auparavant, elle a souffert de douleurs à l’épaule pour lesquelles son médecin lui a prescrit du diclofénac, qu’elle a utilisé pendant six semaines consécutives environ, et une injection de triamcinolone un mois plus tard. Elle ne prend donc plus de diclofénac depuis un mois et demi environ. L’irbésartan 150 mg une fois par jour lui a été prescrit deux jours avant l’introduction du diclofénac, pour traiter une hypertension récente. La patiente prend l’acide acétyl salycilique (AAS), l’atorvastatine, le gliclazide et la metformine depuis au moins deux ans. Il lui arrive d’utiliser l’acétaminophène en automédication pour des douleurs arthritiques. Elle a aussi utilisé du collagène, un produit de santé naturel, pour soulager ses douleurs, mais elle n’en prend plus depuis plusieurs semaines. Les résultats détaillés des examens et analyses sanguines sont présentés au tableau I. On remarque une élévation importante de la phosphatase alcaline et des enzymes hépatiques aspartate aminotransférase (AST) et alanine aminotransférase (ALT). La bilirubinémie demeure toutefois dans les valeurs normales, et les gamma-glutamyltransférases (GGT) n’ont pas été dosées. L’échographie abdominale montre une stéatose hépatique légère ne pouvant expliquer une telle perturbation du bilan hépatique. Les éosinophiles sont normaux, et les tests de dépistage pour l’hépatite A, B et C, le cytomégalovirus (CMV) et le virus d’Epstein-Barr (EBV) sont tous négatifs. On suspecte une hépatite d’origine médicamenteuse, et le médecin interrompt arbitrairement la prescription d’atorvastatine, de gliclazide et d’irbésartan.
+
+Tableau I : Histoire médicamenteuse et résultats des analyses sanguines
+Fév 06 Aoû 06 Sep 06 Oct 06 Nov 06 J 0 J 2 J 4 Fév 07 Jui 08 Déc 08
+AAS 80 mg 1 fois/j + + + + + + + + + + + +
+Atorvastatine 10 mg 1 fois/j + + + + + + - - - + + +
+Gliclazide 40 mg 2 fois/j + + + + + + - - - + + +
+Metformine 500 mg 2 fois/j + + + + + + + + + + + +
+Irbésartan 150 mg 1 fois/j - - - + + + - - - - - -
+Diclofénac 50 mg 3 fois/j - - - + + - - - - - - -
+Triamcinolone inj - - - - + - - - - - - -
+Cyclobenzaprine au besoin ? ? + - - - - - - - - -
+Célécoxib 200 mg 1 fois/j ? ? + - - - - - - - - -
+Amlodipine 5 mg 1 fois/j - - - - - - - - - - + +
+Acétaminophène au besoin ? ? + + + + - - - + + +
+Ibuprofène au besoin ? ? - - - - - - - ? ? +
+AAS-butalbitalcodéine au besoin - - - - - - - - - + ? ?
+LABORATOIRES
+AST (U/L) - 18 - - - - 871 381 99 15 16 -
+ALT (U/L) - 21 - - - - 1557 954 524 17 16 - 
+Phosphatase alcaline (U/L) - 92 - - - - 450 367 364 - 85 -
+Bilirubine totale (μmol/L) - - - - - - 18 10 8 7 - -
+Formule sanguine - - - - - - N - - - - - 
+RIN - - - - - - 1,0 - - - - -
+AAS : Acide acétyl salicylique; j : jour; AST : Aspartate aminotransférase; ALT : Alanine aminotransférase; N : Normale; RIN : Ratio international normalisé
+
+On remarque que, dès la première journée d’hospitalisation de la patiente, les enzymes hépatiques AST et ALT ont diminué significativement ainsi que la phosphatase alcaline. Pour cette raison, une investigation médicale plus poussée n’était pas nécessaire. Au congé de l’hôpital, soit quatre jours après son admission, la patiente ne présente plus de symptômes, et seul l’irbésartan n’est pas réintroduit. Deux mois après l’hospitalisation, les enzymes hépatiques et la phosphatase alcaline sont revenus à leur niveau de base, et le bilan hépatique est demeuré normal au cours des deux années qui ont suivi l’épisode. La patiente n’a jamais repris d’irbésartan ni d’autres ARA et a utilisé de l’ibuprofène occasionnellement pour remplacer le diclofénac.

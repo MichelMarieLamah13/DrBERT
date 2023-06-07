@@ -1,0 +1,55 @@
+La patiente, 51 ans, 1,70 m, 73 kg, de race blanche, arrive à l’urgence au jour 1. Elle présente comme antécédents médicaux de l’hypothyroïdie depuis l’âge de 20 ans, de l’asthme, des thromboses veineuses profondes à répétition (cinq reprises), de l’arthrose au dos et aux mains, elle a subi une hystérectomie, une chirurgie de dérivation biliopancréatique six ans plus tôt et une septoplastie pour polypose nasale. Elle ne fume pas, consomme de l’alcool occasionnellement et est allergique aux chats, aux graminées et à la poussière, mais ne présente pas d’allergie à des médicaments. La patiente adhère à ses traitements médicamenteux. Notons qu’elle revient d’un voyage touristique en République dominicaine au jour 1. La médication usuelle prise par la patiente au moment de l’hospitalisation est répertoriée au tableau I. Cette médication ne changera pas durant toute l’évolution du cas.
+
+Tableau I : Médication usuelle de la patiente
+Médication Posologie Durée d'utilisation
+Warfarine 5 mg Selon RNI Long terme
+Quinine 300 mg 1 capsule au coucher Long terme
+Sulfate ferreux 300 mg 2 comprimés 2 fois par jour Depuis chirurgie bariatrique
+Carbonate de calcium 500 mg 1 comprimé 3 fois par jour Depuis chirurgie bariatrique
+Vitamine B12 1000 μg ½ comprimé 1 fois par jour Depuis chirurgie bariatrique
+Multivitamines 1 comprimé 1 fois par jour Depuis chirurgie bariatrique
+Lactobacilles 6 milliards 1 capsule 4 fois par jour Long terme
+Vitamine D 50 000 UI 1 capsule 2 fois par jour Depuis chirurgie bariatrique
+Docusate sodique 100 mg 2 capsules au coucher Long terme
+Vitamine A 10 000 UI 3 capsules 2 fois par jour Depuis chirurgie bariatrique
+Mométasone 2 inh dans chaque narine 2 fois par jour au besoin Long terme
+Salbutamol 100 μg 2 inh 4 fois par jour au besoin Long terme
+Fluticasone 250 μg 2 inh 2 fois par jour Long terme
+mg : milligrammes; UI : unités internationales; μg : microgrammes; inh : inhalation; RNI : ratio normalisé international.
+
+Elle présente, depuis environ un mois, une sensation d’oppression thoracique continuelle sous forme de serrement. Elle ne manifeste cependant ni douleur rétrosternale ni palpitations. Malgré une légère dyspnée subjective, la patiente ne ressent pas d’orthopnée ou de dyspnée paroxystique nocturne. Il y a aussi présence d’un œdème des membres inférieurs, plus important à gauche qu’à droite. Cet œdème, habituellement présent chez la patiente, a augmenté depuis le voyage. Elle rapporte un accroissement de la fatigue et de la faiblesse, une constipation de longue date, mais depuis le retour du voyage, les selles sont plus abondantes et plus pâles. Un test de réflexe tendineux montre une réponse retardée. Le bilan hépatique demandé se révèle légèrement perturbé. À la lumière de ces résultats et du voyage récent en République dominicaine, on entreprend une recherche d’hépatite A, dont le résultat est négatif. Étant donné les antécédents d’hypothyroïdie et en raison des changements que peuvent entraîner les fluctuations de la fonction thyroïdienne sur le plan du bilan hépatique (notamment des AST, ALT, LDH et CK), une mesure du taux de TSH s’impose6,7. Le tableau II présente l’évolution des valeurs de laboratoire de la patiente.
+
+La valeur de TSH s’avère anormalement élevée (57, 87 mU/L; normale = 0,270-4,20), ce qui peut signifier une élévation du taux des enzymes hépatiques, parfois associée à l’hypothyroïdie. C’est ce que l’on a constaté chez notre patiente. Avec le résultat de T4 qui se situe dans les normales (15,2 pmol/L; normale = 10-22), un dosage de la T3 est alors nécessaire. Le résultat obtenu de 0,98 nmol/L est inférieur aux valeurs normales (normale = 1,30-3,10) et la probabilité d’un diagnostic d’hypothyroïdie causée par une diminution de la conversion périphérique de la T4 en T3 est grande. Au jour 2, on ajoute donc au traitement à la lévothyroxine une thérapie à base de liothyronine, un analogue de la T3, à raison de 50 µg une fois par jour.
+
+À ce moment, les soupçons se portent fortement sur une étiologie médicamenteuse, le principal suspect étant la chloroquine, puisqu’il s’agit du seul médicament récemment introduit. Pour le moment, aucune modification n’est apportée au traitement prophylactique de la malaria; il se poursuit comme prévu. La prophylaxie se terminera au jour 16, soit après une durée d’utilisation de 42 jours. Aucun autre médicament n’est incriminé sur le moment, du fait de la grande stabilité de la médication de la patiente, soit la même médication depuis la chirurgie de dérivation bilio-pancréatique qui a eu lieu six ans auparavant.
+
+Au jour 3, la patiente obtient son congé de l’urgence et on lui demande de revenir à l’hôpital passer d’autres tests de fonction thyroïdienne lors de ses prochains RNI, qui sont plus rapprochés à la suite du déséquilibre de la fonction thyroïdienne. Les tests suivants seront effectués au jour 7 et 9. Elle doit également revoir l’interniste à la clinique externe de médecine interne de l’hôpital au jour 13.
+
+Au moment de la rencontre au jour 13, l’état général de la patiente s’est amélioré. En effet, elle se sent moins fatiguée et elle dort mieux. De plus, le poids de la patiente, qui était de 73 kg au jour 1, se situe maintenant à 70 kg. Devant l’amélioration des résultats de laboratoire, on diminue la dose de liothyronine à 25 µg une fois par jour.
+
+Une deuxième rencontre a lieu au jour 22. L’état clinique de la patiente s’est amélioré par rapport à la dernière visite. La réponse au test de réflexe tendineux s’est normalisée. La patiente continue à perdre du poids et se stabilise à environ 64  kg. La TSH est en légère hausse depuis la dernière visite, à la suite de la baisse du dosage de la liothyronine de 50 µg à 25 µg.
+
+Tableau II : Évolution des valeurs de laboratoires de la patiente et de la médication thyroïdienne
+Mesure TSH T4 T3 AST ALT CK LDH Bilirubine - - -
+Normales 0,270-4,20 mU/L 10-22 pmol/L 1,30-3,10 nmol/L 0-40 UI/L 0-42 UI/L 0-165 UI/L 0-225 UI/L 0-17 μmol/L - - -
+Médication - - - - - - - - Chloroquine Liothyronine Lévothyroxine
+Jour -24 - - - - - - - - Début 500 mg 1 fois par semaine - 0,3 mg
+Jour 1 57,87 15,2 - 171 211 265 409 12 - - 0,3 mg
+Jour 2 83,00 14,6 0,98 99 168 187 306 10 - 50 μg 0,4 mg
+Jour 7 10,50 13,7 1,30 - - - - - - 25 μg 0,4 mg
+Jour 9 6,83 14,1 1,85 - - - - - - 25 μg 0,4 mg
+Jour 13 4,16 14,8 2,02 - - - - - - 25 μg 0,4 mg
+Jour 16 5,30 14,8 2,02 - - - - - Fin 25 μg 0,4 mg
+Jour 18 15,60 13,3 1,45 25 43 133 - - - 25 μg 0,4 mg
+Jour 32 30,60 12,0 1,19 - - - - - - 25 μg 0,4 mg
+Jour 45 - - - - - - - - - 25 μg 0,4 mg
+Jour 53 15,13 12,0 1,58 - - - - - - 25 μg 0,4 mg
+Jour 81 1,81 20,4 1,68 - - - - - - 25 μg 0,4 mg
+Jour 91 - - - - - - - - - Fin 0,4 mg
+Jour 101 0,26 29,0 1,68 - - - - - - - 0,4 mg
+Jour 136 0,50 19,7 1,31 - - - - - - - 0,4 mg
+Jour 187 1,67 21,2 1,38 - - - - - - - 0,4 mg
+mU : milliunités; pmol : picomole; nmol : nanomole; mg : milligrammes; μg : microgrammes; UI : unités internationales; μmol : micromole;
+L : litre
+
+Au jour 45, au cours d’une visite de contrôle subséquente, en tenant compte des derniers résultats de laboratoire, soit la TSH à une valeur de 30,6 mU/L (normale = 0,270-4,20) et la T4 à 12 pmol/L (normale = 10-22), le médecin augmente la dose de lévothyroxine à 400 µg une fois par jour. L’état clinique n’indique aucun symptôme d’hypothyroïdie, mais les résultats de laboratoire demeurent anormaux. Afin d’accélérer le processus de retour à la normale, le médecin traitant demande à la patiente d’espacer la prise de lévothyroxine de celle de son premier comprimé de calcium du matin. Normalement, la patiente prend la lévothyroxine vers cinq heures du matin et le calcium, vers six heures trente. En espaçant les deux comprimés d’environ quatre heures, l’absorption de la lévothyroxine est meilleure8. Par ailleurs, au jour 91, on retire la liothyronine de la médication de la patiente. Une dernière visite de routine est prévue au jour 143, afin de s’assurer de l’état général de la patiente et de la normalisation des taux sanguins de la fonction thyroïdienne. À ce moment, l’évaluation clinique et les valeurs de laboratoire sont de retour à la normale.

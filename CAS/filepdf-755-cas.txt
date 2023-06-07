@@ -1,0 +1,44 @@
+Un homme de 62 ans est amené à l’urgence pour altération de l’état de conscience avec convulsions. On constate alors un score de Glasgow de 3/15. Le patient est transféré à l’unité des soins intensifs, où il doit rapidement être intubé. Un bilan toxicologique et électrolytique complet est effectué. On observe par ailleurs au dossier du patient des antécédents d’épilepsie, d’éthylisme chronique associé à des troubles cognitifs, une hypertension artérielle ainsi que des épisodes de désordres électrolytiques importants.
+
+Alors que le bilan toxicologique s’avère négatif, l’analyse biochimique révèle quant à elle une hypocalcémie (calcium ionisé à 0,70 mmol/L) et une hypomagnésémie (0,35 mmol/L) graves ainsi qu’une hyperphosphatémie (2,40 mmol/L). La concentration sérique de créatinine avait augmenté par rapport aux valeurs antérieures de base du patient (134 µmol/L versus 85 µmol/L). Le bilan acido-basique montre une acidose métabolique importante (gazométrie artérielle : pH = 7,03; pCO2 = 34 mmHg, HCO3 = 8 mmol/L), probablement secondaire à un choc septique d’origine pulmonaire, associé à une acidose lactique (lactates à 20 mmol/L à l’arrivée, se normalisant toutefois en quelques heures). On remarque également une très légère augmentation de la créatine kinase (CK), qui se situe à 280 U/L. Des bolus de sulfate de magnésium et de gluconate de calcium en perfusion sont prescrits et donnés par voie intraveineuse centrale afin de corriger les désordres électrolytiques. Le lendemain matin (J1), le calcium ionisé n’est qu’à 0,75 mmol/L. Un premier bolus de gluconate de calcium 1 g IV est donné en une heure à 10 h 30. Vers midi, un autre bolus, de 5 g IV cette fois, est donné en sept heures. Puisqu’on suspecte une surinfection pulmonaire, on prescrit au patient de la ceftriaxone 1 g IV toutes les 24 heures, qui lui est administrée en 30 minutes vers 13 h. On n’a pu retrouver l’information quant au choix de la voie d’administration du calcium et de la ceftriaxone : en Y ou par deux voies différentes. La médication concomitante du patient comprenait du propofol, du midazolam au besoin, du fentanyl, de la phénytoïne, de l’olanzapine, de la ranitidine, de la thiamine, du métoclopramide au besoin, de l’héparine sous-cutanée, de l’acétaminophène ainsi qu’une échelle d’insuline selon le glucomètre et de chlorure de potassium selon la kaliémie. Par ailleurs, l’albuminémie se situe dans les limites inférieures de la normale, à 38 g/L.
+
+Tableau I : Séquence d’administration de la ceftriaxone et du calcium pour cette étude de cas
+Heure d’adm. Produit administré Heure du prélèvement Créat (μmol/L) K (mmol/L) PO4 (mmol/L) Ca ionisé (mmol/L) Lactates (mmol/L) Albumine (g/L)
+J0
+20 h 10 G.Ca 1 g/250 ml D5 % IV en 1 h 18 h 22 20 h 27 134 - 4,0 3,5 2,40 - - 0,70 20,0 7,5 - -
+J1
+10 h 30 G.Ca 1 g/100 ml NS IV en 1 h 6 h 155 3,5 2,26 0,75 0,6 38
+12 h 05 G.Ca 5 g/500 ml D5 % IV en 7 h
+13 h CFTX 1 g/10 ml ESI IV en 30 min
+23 h 15 G.Ca 5 g/500 ml NS IV en 7 h 21 h 28 - 3,5 1,46 0,9 - -
+j2
+15 h 50 C.Ca 500 mg PO QID (poursuivi x 15 jours)
+5 h 5 h 3,9 1,70 0,97 - -
+9 h 27 9 h 27 - - - - -
+14 h 29 14 h 29 - - - - - -
+19 h 26 19 h 26 3,2 - - -
+j3 Pas de calcium IV 5 h 10 383 3,8 1,96 0,99 - 37
+j4 17 h G.Ca 1 g/100 ml NS IV en 1 h 4 h 30 226 3,4 0,98 0,97 - -
+j35
+14 h CFTX 1 g/10 ml ESI IV en 30 min
+13 h 20 171 4,3 2,13 - 26,0 33
+18 h 40 - - 1,29 - 1,5 -
+22 h 40 - 2,6 - 0,82 1,4 -
+J36
+12 h 45 G.Ca 1 g/250 ml NS en 2 h
+18 h 25 G.Ca 1 g/250 ml NS en 2 h
+9 h 41 348 3,1 1,65 - 0,9 -
+14 h 52 364 3,2 1,71 - - -
+17 h 26 375 3,0 1,71 0,79 - -
+23 h 25 403 3,3 1,65 0,82 - -
+Heure d’adm. : heure d’administration; Créat : créatinine sérique; ESI : eau stérile pour injection; K : potassium sérique;
+PO4 : phosphore sérique; Ca ionisé : calcium ionisé sérique; umol/L : micromoles/litre; mmol/L : millimoles/litre; g/L : grammes par litre;
+J : jour; h : heure; G.Ca : gluconate de calcium; g : gramme, ml : millilitre; D5 % : dextrose 5 % dans l’eau; IV : intraveineux; NS : normal salin;
+CFTX : ceftriaxone; C.Ca : carbonate de calcium; PO : per os; QID : quatre fois par jour.
+
+Figure 1 : Évolution de la fonction rénale selon le temps associé à la séquence d’administration des médicaments
+Légende : en pointillé : administration de gluconate de calcium; ligne pleine : administration de ceftriaxone 1 g IV
+
+Au jour 2, on constate une élévation marquée de la créatinine, qui atteint maintenant 374 µmol/L. Elle augmentera ainsi jusqu’à 409 µmol/L en soirée, pour ensuite diminuer graduellement dans les jours suivants et se stabiliser autour de 110 µmol/L au jour 7, intervalle pendant lequel une diurèse adéquate se maintiendra. L’administration de ceftriaxone a été rapidement interrompue par l’intensiviste, qui suspectait que l’insuffisance rénale aiguë (IRA) était secondaire à la précipitation d’un complexe ceftriaxone-calcium dans les tubules rénaux. Le patient obtiendra son congé quelques semaines plus tard, soit au jour 21. L’hypothèse retenue pour expliquer la survenue des convulsions qui ont mené à l’hospitalisation est le sevrage éthylique ainsi que l’hypomagnésémie et l’hypocalcémie graves secondaires à une dénutrition importante.
+
+Deux semaines après son congé (J35), le patient est réadmis à l’hôpital dans un contexte similaire de convulsions associées à des désordres électrolytiques (hyperphosphatémie, hypocalcémie, hypomagnésémie). La créatinine à l’admission est de 171 µmol/L. Les lactates sont élevés (26,0 mmol/L), mais les CK sont dans les limites de la normale. Encore une fois, le patient reçoit une dose de ceftriaxone suivie de perfusions de gluconate de calcium IV, mais cette fois, seulement 24 heures après l’administration de la dose de ceftriaxone. Dès le lendemain de l’administration de la ceftriaxone, mais avant celle de la première dose de calcium, on remarque une élévation de la créatinine sérique, qui a passé de 171 µmol/L à 348 µmol/L. Elle augmentera dans les jours suivants jusqu’à 439 µmol/L, puis diminuera aussi progressivement par la suite. On suspecte à nouveau une toxicité rénale tubulaire.

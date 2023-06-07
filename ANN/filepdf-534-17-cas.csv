@@ -1,0 +1,27 @@
+entity_group,score,word,start,end
+LIVB,0.9525045,jeune fille de 17 ans,3,25
+LIVB,0.9343455,jeunes hommes,41,55
+LIVB,0.6110157,bières,60,67
+CHEM,0.9027854,cannabis,73,82
+CHEM,0.5200553,gré,117,121
+LIVB,0.49380353,cannettes,136,146
+CHEM,0.565173,mes,187,191
+LIVB,0.9244935,magistrat,250,260
+CHEM,0.3951893,quantités consommées,283,304
+PHYS,0.39222005,comportement,330,343
+CHEM,0.9269719,éthanol,363,370
+CHEM,0.89148897,cannabis,376,385
+PHYS,0.616247,aptitudes,418,428
+ANAT,0.2670938,consommateurs,432,446
+CHEM,0.87281513,principe actif,490,505
+CHEM,0.7709366,delta 9 tetrahydrocannabinol,509,538
+CHEM,0.8755609,cannabis,546,555
+CHEM,0.8469853,éthanol,561,568
+ANAT,0.66755307,bières,577,584
+PHYS,0.81766903,corpulence,601,612
+PHYS,0.47877908,santé,626,632
+LIVB,0.43369448,sujet,635,641
+PHYS,0.6842398,inhibitions,691,703
+DISO,0.42287844,euphorie,710,718
+PHYS,0.8099285,réaction,754,763
+PHYS,0.92100745,ébriété,786,793

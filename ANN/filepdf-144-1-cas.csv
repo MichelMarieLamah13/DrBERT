@@ -1,0 +1,44 @@
+entity_group,score,word,start,end
+LIVB,0.70323217,"Mme L., âgée",0,12
+LIVB,0.8453489,92 ans,15,22
+DISO,0.93759626,myélome,54,62
+DISO,0.9286971,polyarthrite rhumatoïde,67,91
+DISO,0.974534,hypothyroïdie,98,112
+DISO,0.7538708,hématurie macroscopique,146,169
+DISO,0.96108603,hématuries,185,196
+PROC,0.9788211,déglobulisation traitée,223,247
+PROC,0.965757,transfusions,251,264
+ANAT_PROC,0.52316767,sanguines,264,274
+PROC,0.568858,tives,280,285
+PROC,0.9766356,échographie,289,300
+DISO,0.9514243,lésion,318,325
+ANAT_DISO,0.86968124,rénale,325,332
+ANAT_DISO,0.8602552,vésicale,335,344
+PROC,0.98351306,cystoscopie,349,361
+PROC,0.9792069,anesthésie,366,377
+DISO,0.7011964,lésion polyp,390,403
+ANAT_DISO,0.5597095,oïde,403,407
+ANAT_DISO,0.51259047,fond vésical,410,423
+ANAT_DISO,0.4445147,2 cm,426,431
+DISO,0.6338273,“en boule”,476,487
+PROC,0.9196064,résection,508,518
+DISO,0.90325755,lésion,527,534
+ANAT_DISO,0.6350703,optique,540,548
+PROC,0.8615096,examen anatomopathologique,565,591
+DISO,0.8644009,dépôts amyloïdes,615,632
+ANAT,0.6638495,chorion,643,651
+ANAT,0.52286077,vaisseaux,687,697
+PROC,0.9430535,coloration,702,713
+PROC,0.6375529,le Rouge Congo,717,732
+PROC,0.56681406,confirmer,744,754
+PROC,0.73197323,diagnostic,757,768
+DISO,0.947154,amylose,771,778
+PROC,0.8007763,caractérisation immuno-histochimique,793,830
+PROC,0.7759872,marquage,852,861
+PROC,0.6597719,anticorps anti-,869,884
+CHEM,0.39823982,AA,884,886
+DISO,0.79723644,chaînes légères,908,924
+PROC,0.8318913,traitement complémentaire,943,969
+PROC,0.4617708,patiente,973,982
+DISO,0.61830556,signe clinique,1001,1016
+DISO,0.7295693,récidive,1036,1045

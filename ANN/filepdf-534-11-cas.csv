@@ -1,0 +1,7 @@
+entity_group,score,word,start,end
+LIVB,0.970094,femme de 35 ans,3,19
+PROC,0.9695182,traitement,60,71
+CHEM,0.7890828,Tranxène® 50 mg,75,91
+LIVB,0.57498693,whisky.,125,133
+CHEM,0.8733763,produits stupéfiants,232,253
+CHEM,0.90523267,stupéfiants,277,289

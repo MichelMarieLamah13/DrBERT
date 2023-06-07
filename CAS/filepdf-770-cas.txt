@@ -1,0 +1,134 @@
+Monsieur P. M., 78 ans, est admis à l’unité de courte durée gériatrique en décembre, à la suite d’une consultation chez le gériatre en clinique externe. Les problèmes à évaluer sont un trouble de la marche avec syndrome de chutes, des douleurs lombaires, des troubles cognitifs et une hypersomnie entraînant une perte d’autonomie accentuée dans les trois derniers mois. On note en particulier une importante polymédication.
+
+Monsieur P. M. vit depuis deux ans en appartement avec son épouse dans une résidence pour personnes âgées autonomes. Depuis trois mois, il est presque entièrement dépendant pour l’hygiène et l’habillement, il se déplace à l’aide d’un ambulateur ou d’un fauteuil roulant pour les plus longues distances, il ne participe à aucune activité de la vie domestique. Il ne conduit plus depuis deux ans. Se couchant vers 18 h 30 et se levant vers 9 h, il a un horaire de sommeil pathologique entrecoupé de plusieurs réveils. Il ne sort pratiquement plus de son logement, et ses activités durant la journée se résument à regarder la télévision, fumer (environ 15 cigarettes par jour) et somnoler dans son fauteuil.
+
+Monsieur P. M. présente les problèmes de santé chroniques suivants : maladie pulmonaire obstructive chronique, polyarthrite rhumatoïde non active, arthrose, diabète de type 2 avec polyneuropathie, tabagisme, hypertrophie bénigne de la prostate et tremblement essentiel. Il pèse actuellement 75 kg. Il prend deux repas par jour vers 9 h 30 et 15 h 30. Au domicile, son épouse l’aide dans ses activités de la vie quotidienne et s’occupe de toute la vie domestique. Elle lui administre la médication et lui prend une glycémie capillaire par semaine, toujours le matin, laquelle se situe habituellement entre 4 et 5 mmol/l.
+
+Les informations sur l’anamnèse médicamenteuse qu’a recueillies le pharmacien de l’unité auprès du patient, de son épouse et du pharmacien d’officine le jour de l’admission révèlent effectivement une polymédication :
+
+Médicaments prescrits :
+• Formotérol 12 mcg/dose, 1 inhalation deux fois par jour
+• Hydroxychloroquine 200 mg, 1 comprimé une fois par jour
+• Aspirine 80 mg, 1 comprimé une fois par jour
+• Propranolol L.A. 160 mg, 1 comprimé par jour au coucher
+• Tamsulosine L.A. 0,4 mg, 1 comprimé par jour au coucher
+• Oxycodone-acétaminophène 5-325 mg, 2 comprimés deux fois par jour
+• Mirtazapine 30 mg, 2 comprimés par jour au coucher • Clonazépam 2 mg, 1 à 2 comprimés par jour au
+coucher (reçoit 2 comprimés au coucher)
+• Méthotriméprazine 5 mg, 1 à 3 comprimés par jour au coucher (reçoit 3 comprimés par jour)
+• Metformine 500 mg, 1 comprimé deux fois par jour
+• Calcium 500 mg, 1 comprimé deux fois par jour
+• Vitamine D 10000 unités, ½ comprimé une fois par semaine
+• Sennosides 8,6 mg, 3 comprimés par jour au coucher
+• Docusate sodique 100 mg, 2 capsules deux fois par jour
+Médicaments sans ordonnance et produits de santé naturels :
+• Acétaminophène L.A. 650 mg 1 comprimé par jour en après-midi
+• Huile minérale 15 ml par jour au coucher
+• Graines de lin moulues deux fois par jour
+
+Dans le cas de monsieur P. M., l’évaluation gériatrique multidisciplinaire révèle les problèmes suivants :
+• Troubles de la marche et de l’équilibre, entraînant trois chutes dans les derniers six mois, en raison d’un déconditionnement marqué, la polyneuropathie périphérique, un parkinsonisme probablement secondaire aux médicaments, la polymédication et les troubles cognitifs ; avec les premières valeurs de pression artérielle, on met en évidence de l’hypotension orthostatique significative (valeurs de 145/80 mm Hg en position couchée et de 100/60 mm Hg en position debout à l’admission).
+• Douleurs lombaires secondaires à de l’arthrose facettaire, auxquelles contribue le déconditionnement.
+• Troubles cognitifs (Mini mental state examination (MMSE) à 19/30), pour lesquels on conclura à un ralentissement psychomoteur secondaire à la polymédication et à une atteinte sous-corticale vasculaire, à laquelle contribue de façon certaine l’hypotension orthostatique.
+• Dénutrition protéino-énergétique (albumine sérique à 32 g/l) avec perte de poids de 10 kg durant la dernière année ; ce dernier élément est à prendre en considération pour l’évaluation de la maîtrise du diabète.
+• Troubles du sommeil et hypersomnie secondaires aux médicaments.
+
+Évaluation de la correspondance entre les problèmes de santé de monsieur P. M. et les médicaments prescrits:
+• Il reçoit comme traitement pharmacologique des problèmes de santé chroniques :
+- Le formotérol pour la maladie pulmonaire obstructive chronique stable ;
+- L’hydroxychloroquine pour la polyarthrite rhumatoïde non active ;
+- L’acétaminophène et l’oxycodone pour le soulagement de la douleur lombaire associée à l’arthrose ;
+- La metformine pour le diabète de type 2 bien maîtrisé et l’aspirine en prévention des complications cardiovasculaires associées au diabète ;
+- La tamsulosine pour l’hypertrophie bénigne de la prostate ;
+- Le propranolol pour le tremblement essentiel ;
+- Des laxatifs (docusate, sennosides, huile minérale et graines de lin) pour la constipation induite par les médicaments ;
+- Des suppléments de calcium et de vitamine D en prévention de l’ostéoporose.
+• Il reçoit des médicaments sans indication claire ou dont la prise a débuté sans évaluation globale préalable : le clonazépam, la méthotriméprazine, la mirtazapine et le propranolol.
+• Duplication thérapeutique : il ne reçoit pas de médicaments de la même classe, mais il reçoit des agents qui ont des effets additifs anticholinergiques et sédatifs (clonazépam, méthotriméprazine, mirtazapine, oxycodone) et des effets additifs alpha1bloquants (tamsulosine, méthotriméprazine, mirtazapine). Il reçoit deux formulations contenant de l’acétaminophène, pour une dose totale quotidienne de 1950 mg.
+• Il ne reçoit pas d’agents de la classe des statines ou de la classe des inhibiteurs de l’enzyme de conversion de l’angiotensine alors que ces médicaments pourraient être indiqués dans la mesure où on prend en considération le risque de complications cardiovasculaires associé au diabète chez ce patient âgé et fumeur.
+
+Plusieurs modifications avaient été apportées à la médication de monsieur P. M. dans les trois mois précédant l’hospitalisation dans le but de soulager certains symptômes (douleur, troubles du sommeil, difficulté d’élimination vésicale) :
+• Le 9 novembre : ajout de tamsulosine ;
+• Le 2 octobre : retrait de la quétiapine 50 mg au coucher et ajout de méthotriméprazine ;
+• Début septembre : retrait de l’atorvastatine 20 mg au coucher et début de prise régulière d’oxycodone-acétaminophène, de docusate de sodium et de sennosides ;
+• Entre juillet et octobre : augmentation progressive de propranolol 20 mg deux fois par jour à 160 mg L.A. une fois par jour.
+
+Une rencontre avec monsieur P. M. et son épouse a permis de compléter l’anamnèse médicamenteuse, d’évaluer le degré d’observance et de préciser des éléments importants pour l’analyse de la pharmacothérapie :
+• En raison des troubles cognitifs du patient, c’est l’épouse qui s’occupe d’administrer la médication servie en flacons par la pharmacie. Elle conserve les médicaments dans les flacons originaux et est très observante.
+• L’horaire d’administration des médicaments à domicile a pu être relevé.
+• L’administration de méthotriméprazine a été entreprise dans le but d’améliorer le sommeil ; monsieur P. M. en reçoit régulièrement 10 mg au coucher et 5 mg vers minuit au besoin (administré chaque nuit par son épouse).
+• Monsieur P. M. reçoit régulièrement du clonazépam 4 mg au coucher depuis plus de six mois.
+• L’administration de mirtazapine a été entreprise il y a plus d’un an pour traiter des symptômes de dépression.
+• Ils ne se rappellent pas la raison du retrait de l’atorvastatine (douleur musculaire ?).
+• La médication sans ordonnance a pu être recensée, soit l’utilisation d’acétaminophène, d’huile minérale et de graines de lin.
+
+Monsieur P. M. présente des syndromes gériatriques de causes multifactorielles qui se sont lentement installés sur plus d’une année, quoique la perte d’autonomie se soit davantage accentuée dans les trois derniers mois. Les syndromes gériatriques partagent des facteurs de risque communs36 et les différents problèmes présentés sont interreliés et complexes à évaluer. Nous pouvons tout de même dégager les observations suivantes :
+• L’association de plusieurs médicaments à propriétés sédatives et anticholinergiques (clonazépam, méthotriméprazine, mirtazapine, oxycodone) augmente le risque de troubles de l’équilibre et de chutes et contribue aux troubles cognitifs avec ralentissement psychomoteur.
+• Le propranolol, la tamsulosine, la méthotriméprazine et la mirtazapine peuvent causer de l’hypotension orthostatique, ce qui augmente le risque de chutes.
+• Le parkinsonisme (rigidité) est fort probablement secondaire à la méthotriméprazine ; par contre, une fragilité peut être présente en raison de l’atteinte cérébrale sous-corticale.
+• L’anorexie peut être causée par l’oxycodone et la metformine. La diminution des apports alimentaires peut également être liée au ralentissement psychomoteur.
+• En plus de prendre en considération les effets additifs des médicaments administrés, l’analyse des interactions pharmacocinétiques potentielles permet de constater que plusieurs médicaments empruntent les mêmes voies de métabolisme hépatique. Entre autres, le patient reçoit quatre substrats du CYP 2D6 (méthotriméprazine (inhibiteur puissant), propranolol (inhibiteur modéré), mirtazapine et oxycodone) et cinq substrats du CYP 3A4 (clonazépam, mirtazapine, oxycodone, propranolol et tamsulosine). Même en l’absence d’un inhibiteur puissant à haute dose, l’administration de plusieurs substrats d’une même isoenzyme du cytochrome P450 entraîne une inhibition compétitive du métabolisme de certains substrats, ce qui peut résulter en une augmentation des concentrations plasmatiques des médicaments.
+
+Plusieurs cascades médicamenteuses sont présentes dans le cas de monsieur P. M. :
+• L’administration de mirtazapine a été entreprise pour traiter des symptômes de dépression apparente, telles l’apathie et la diminution des activités, alors que ces symptômes étaient probablement la manifestation d’une atteinte vasculaire sous-corticale.
+• Les troubles du sommeil ont conduit à la prescription de médicaments à propriétés sédatives qui ont causé un ralentissement psychomoteur chez ce patient présentant une fragilité cognitive ; l’immobilisation secondaire a accentué les troubles du sommeil et les plaintes du patient ont conduit à une surenchère de médicaments sédatifs.
+• Le diagnostic de tremblement essentiel ayant mené à la prescription de propranolol a été établi avant la prescription de méthotriméprazine, qui aurait pu causer des tremblements parkinsoniens ; par contre, la mirtazapine et le formotérol peuvent causer des tremblements et le diagnostic devra être revu.
+• La tamsulosine a été introduite pour traiter les symptômes de prostatisme chez ce patient prenant plusieurs médicaments à propriétés anticholinergiques qui peuvent causer de la rétention urinaire.
+• Le déconditionnement secondaire à la grande sédentarité du patient en raison du ralentissement psychomoteur provoqué par les médicaments a accentué le problème de douleur associé à l’arthrose et conduit à la prescription d’un analgésique narcotique puissant, soit l’oxycodone.
+• Il reçoit bien sûr des laxatifs pour traiter la constipation induite par les narcotiques (et par les médicaments anticholinergiques), mais dans ce cas, c’est l’omission de prescrire des laxatifs qui aurait été jugée inappropriée.
+
+Selon la dernière version des critères de Beers39, les médicaments et les associations médicaments-maladies suivants sont inappropriés pour monsieur P. M. :
+• Huile minérale (achetée sans ordonnance) comme laxatif : risque d’aspiration.
+• Médicaments à propriétés anticholinergiques en présence d’hypertrophie bénigne de la prostate : risque de rétention urinaire.
+• Médicaments à propriétés anticholinergiques en présence de troubles cognitifs : aggravent les déficits cognitifs.
+• Propranolol, un bêta-bloqueur non sélectif, en présence de maladie pulmonaire obstructive chronique : détérioration de la fonction pulmonaire et de la réponse aux agents beta2-agonistes, tel le formotérol.
+
+Bien qu’ils ne fassent pas explicitement partie des critères de Beers, on peut également remettre en question les choix des traitements suivants :
+• L’administration de méthotriméprazine, un antipsychotique classique pour le traitement d’un trouble du sommeil, est clairement inappropriée en gériatrie.
+• L’utilisation du clonazépam, une benzodiazépine à longue demi-vie (20 à 80 heures), qui n’a toutefois pas de métabolite actif, est rarement un premier choix en gériatrie, bien qu’elle puisse parfois être justifiée.
+
+En plus des interactions médicamenteuses présentes, qui résultent en une augmentation probable des taux sériques de certains médicaments consommés par monsieur P. M. (voir discussion portant sur le principe 4), les modifications pharmacocinétiques et pharmacodynamiques des médicaments sont également à prendre en considération :
+• Le diabète peut se compliquer d’une gastroparésie diabétique qui pourrait affecter l’absorption des médicaments.
+• Le propranolol subit un important premier passage hépatique qui peut être réduit avec le vieillissement, ce qui résulte en une augmentation de la biodisponibilité.
+• Le propranolol et la tamsulosine sont fortement liés aux protéines plasmatiques (taux de liaison > 90 % à l’albumine et à l’alpha1-glycoprotéine, respectivement) ; ces protéines sont abaissées en cas de dénutrition (albumine sérique à 32 g/l chez monsieur P. M.), ce qui augmente la fraction libre dans le sang.
+• Le propranolol, la tamsulosine, l’oxycodone, l’acétaminophène, la mirtazapine, le clonazépam et la méthotriméprazine subissent un métabolisme hépatique de phase I qui peut être réduit chez le patient âgé, ce qui augmente les concentrations plasmatiques de ces médicaments.
+• La metformine est exclusivement éliminée par voie rénale, de même que les métabolites de l’oxycodone (dont un métabolite actif). En utilisant le résultat de créatinine sérique à l’admission de 86 µmol/l dans l’équation de Cockroft et Gault, on calcule une clairance de la créatinine de 1,1 ml/seconde (66 ml/minute) chez ce patient, ce qui en principe n’affecte pas significativement l’élimination rénale des médicaments.
+• Monsieur P. M. reçoit quatre agents du système nerveux central (oxycodone, mirtazapine, clonazépam et méthotriméprazine) et deux agents hypotenseurs (propranolol, tamsulosine) dont on rapporte des modifications de l’action pharmacodynamique.
+
+Dans le cas de monsieur P. M. :
+• La dose maximale de mirtazapine devrait être de 30 mg par jour ou exceptionnellement 45 mg par jour.
+• La dose de clonazépam ne devrait pas dépasser 2 mg par jour.
+• Le traitement avec un analgésique narcotique est habituellement entamé à une dose de 1 à 2,5 mg en équivalent morphine par dose, jusqu’à 4 à 10 mg par jour. On doit être prudent avec l’utilisation des comprimés d’oxycodone-acétaminophène, puisqu’ils contiennent au minimum 5 mg d’oxycodone par comprimé, soit 10 mg en équivalent morphine (dose initiale quotidienne administrée en une seule dose).
+• La dose de propranolol pourrait être appropriée, mais elle ne tient pas compte des considérations pharmacocinétiques ni des interactions médicamenteuses décrites plus haut.
+
+Tel qu’illustré par le cas de monsieur P. M., le patient âgé peut présenter un ensemble complexe de problèmes multiples, souvent à caractère atypique. Il devient ainsi parfois difficile de distinguer l’ordre de priorité, et même le degré d’urgence des différents problèmes.
+
+Dans le cas de monsieur P. M., il fallait agir promptement afin d’obtenir des améliorations de la marche et de l’équilibre qui soient visibles pour le patient si on voulait sauvegarder sa collaboration. Un plan de cessation de médicaments et de réajustement de la pharmacothérapie a été élaboré conjointement avec l’équipe médicale, le patient et son épouse.
+• La tamsulosine a été retirée sans sevrage.
+• Un plan de sevrage était nécessaire pour le retrait de la méthotriméprazine, de l’oxycodone, du clonazépam, de la mirtazapine et du propranolol. Nous avons procédé comme suit :
+- Le patient a rapidement été sevré de la méthotriméprazine, qui lui a été retirée.
+- La dose de propranolol a été diminuée à 120 mg L.A. une fois par jour, puis à 40 mg deux fois par jour, avec comme intention le retrait du médicament.
+- L’acétaminophène a été prescrit à raison de 650 mg quatre fois par jour régulièrement et le patient a été sevré de l’oxycodone, qui lui a été retiré.
+- Le patient a progressivement été sevré du clonazépam ; durant le sevrage, l’oxazépam a été introduit à une dose de 15 mg au coucher.
+- La dose de mirtazapine a été diminuée à 30 mg au coucher, avec comme intention le retrait du médicament.
+• Les mesures non pharmacologiques suivantes ont été prescrites : mesures pour contrer l’hypotension orthostatique (encourager l’hydratation, le sel dans l’alimentation, le port de bas élastiques, etc.) et mesures antalgiques en physiothérapie.
+• Les paramètres de suivi suivants ont été vérifiés : mesures de pression artérielle et de fréquence cardiaque en position couchée et debout ; tests de mobilité et d’équilibre en physiothérapie ; symptômes parkinsoniens à l’examen médical ; tests d’évaluation cognitive ; grille de sommeil ; observation quotidienne de la douleur lombaire et des répercussions fonctionnelles par les membres de l’équipe ; symptômes de prostatisme, calendrier mictionnel et mesures du résidu vésical à l’aide d’un appareil à ultrasons ; bilan nutritionnel ; suivi des symptômes liés au retrait des médicaments.
+
+À la fin du séjour hospitalier d’une durée de deux semaines, une rencontre avec le patient et son épouse a permis de revoir les changements apportés à la pharmacothérapie :
+• Médicaments retirés : tamsulosine, méthotriméprazine, oxycodone-acétaminophène et les laxatifs (sennosides, docusate de sodium, huile minérale, graines de lin).
+Médicaments en période de retrait progressif :
+• Clonazépam 0,25 mg au coucher pendant une semaine, puis 0,125 mg au coucher pendant une semaine puis cesser
+• Mirtazapine 30 mg, 1 comprimé par jour au coucher
+• Propranolol 40 mg, 1 comprimé deux fois par jour
+Médicaments ajoutés :
+• Acétaminophène 325 mg, 2 comprimés quatre fois par jour
+• Oxazépam 15 mg, 1 comprimé par jour au coucher
+• Médicaments poursuivis sans modification : formotérol, hydroxychloroquine, aspirine, metformine, calcium et vitamine D.
+
+La rencontre a aussi permis de leur donner des instructions verbales et écrites sur l’indication et la posologie des médicaments prescrits et d’adapter l’horaire de prise des médicaments aux habitudes du patient. On doit mentionner que le patient a retrouvé un horaire de sommeil normal durant l’hospitalisation.
+
+À la fin du séjour hospitalier, la démarche de monsieur P. M. s’était grandement améliorée et était plus assurée, ce qui réduit le risque de chutes. Le ralentissement psychomoteur étant moins marqué, le patient a également récupéré sur le plan cognitif (MMSE de 19/30 à l’admission à 22/30 au congé), tout en disposant encore d’un potentiel d’amélioration.
+
+L’hypotension orthostatique était traitée à l’aide de mesures non pharmacologiques, et le traitement sera à revoir une fois les sevrages de médicaments terminés. Le parkinsonisme a disparu et la douleur lombaire était bien maîtrisée. Monsieur P. M. était également plus autonome pour faire les activités de la vie quotidienne. Il a été dirigé vers l’hôpital de jour pour poursuivre les traitements de réadaptation pour son déconditionnement, pour le suivi de son état nutritionnel de même que pour compléter les interventions en ergothérapie.
+
+Le sommaire de l’évaluation de l’équipe multidisciplinaire, avec l’accent mis sur l’impact des médicaments sur l’atteinte fonctionnelle du patient et les améliorations obtenues suite aux ajustements du traitement, est communiqué au médecin généraliste du patient, à son pharmacien d’officine et à l’équipe de l’hôpital de jour. Des recommandations sont émises afin de poursuivre les sevrages amorcés du clonazépam, de la mirtazapine et du propranolol. L’indication visant à commencer la prise d’une statine et d’un inhibiteur de l’enzyme de conversion de l’angiotensine, et à intervenir sur la cessation tabagique pourra être revue plus tard, lorsque l’autonomie fonctionnelle sera maximisée, que l’hypotension orthostatique pourra être réévaluée sans facteur aggravant (médicaments, immobilisation), que le poids sera stabilisé et la dénutrition corrigée, ces derniers problèmes compromettant davantage le pronostic du patient.

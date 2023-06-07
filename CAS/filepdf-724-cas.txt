@@ -1,0 +1,29 @@
+Il s’agit d’une patiente J.K. âgée de 53 ans qui se présente à la pharmacie pour se procurer une prescription de clarithromycine 500 mg deux fois par jour pendant 10 jours dans le but de traiter une sinusite aiguë à Streptococcus pneumoniae. Mme J.K. est traitée pour une fibrillation auriculaire depuis deux ans avec le sulfate de quinidine 200 mg trois fois par jour. De plus, elle est traitée depuis six mois pour des troubles psychotiques avec de la rispéridone 2 mg deux fois par jour. Enfin, l’hypertension artérielle de Mme J.K. est contrôlée par de l’indapamide 2,5 mg une fois par jour.
+
+Après avoir consulté son dossier pharmacothérapeutique, le pharmacien hésite à lui remettre la prescription de la clarithromycine en raison du risque majeur d’interactions médicamenteuses pouvant causer des torsades de pointes (TdP). Cette hésitation est-elle justifiée? Quels sont les facteurs prédisposant à de telles interactions et les mécanismes qui y sont impliqués?
+
+Les cas d’interactions médicamenteuses sont fréquents en pharmacothérapie, et certaines interactions sont très simples et prévisibles, n’ayant que des conséquences mineures sur l’état du patient. Par contre, d’autres sont plus complexes, comportant des effets indésirables majeurs qui peuvent être fatals et souvent imprévisibles. La proarythmie cardiaque constitue l’un des effets indésirables les plus dangereux résultant d’interactions médicamenteuses délétères telles que celles décrites dans notre cas clinique (Tableau I).
+
+Tableau I : Interactions médicamenteuses dans le cas clinique de Mme J.K.
+CYP3A4 CYP2D6 P-gp IKr IKs
+Clarithromycine Inhibiteur — Inhibiteur Inhibiteur —
+Quinidine Substrat Inhibiteur Inhibiteur Inhibiteur Inhibiteur
+Rispéridone Substrat Substrat — Inhibiteur —
+Indapamide — — — — Inhibiteur
+
+Voici donc un sommaire et une analyse de ce cas :
+1) Mme J.K. est traitée pour sa fibrillation auriculaire avec de la quinidine, un antiarythmique de classe IA, qui possède, outre le blocage des canaux sodiques, des propriétés de prolongation de la repolarisation par blocage des courants potassiques IKr et IKs. Le risque de TdP estimé chez les patients traités à la quinidine est de 2 à 8 %. De plus, la quinidine est un substrat du CYP3A4, et un inhibiteur puissant du CYP2D6 et de la P-gp. La quinidine possède donc un risque élevé d’interactions dans le métabolisme et le transport de plusieurs médicaments.
+
+2) La rispéridone est un antipsychotique et un bloqueur d’IKr. Le blocage d’IKr peut être observé à des concentrations légèrement supérieures à celles observées en clinique. La rispéridone est éliminée principalement par un métabolisme lié au CYP2D6 et au CYP3A4. L’administration combinée de quinidine chez cette patiente fait en sorte que les voies de métabolisme dépendantes du CYP2D6 sont éliminées. La patiente dépend donc uniquement de son activité en CYP3A4. La co-administration proposée de clarithromycine, qui est un inhibiteur puissant du CYP3A4, en association avec la rispéridone et la quinidine, deux substrats du CYP3A4, risquera donc de causer une accumulation très importante de la rispéridone et de la quinidine, avec des risques importants d’effets secondaires, incluant des TdP.
+
+3) L’hypertension de Mme J.K. est traitée avec de l’indapamide, un diurétique qui peut provoquer des pertes de potassium et augmenter le risque de TdP. Mais de façon encore plus importante, l’indapamide est un bloqueur d’IKs. En combinaison avec des bloqueurs d’IKr, il y aura une potentialisation des effets.
+
+4) Enfin, la clarithromycine est un inhibiteur du CYP3A4, des P-gp, et d’IKr. Son introduction au régime thérapeutique causera assurément une augmentation des concentrations plasmatiques et tissulaires de quinidine et de rispéridone.
+
+5) La patiente reçoit conjointement plusieurs bloqueurs d’IKr (quinidine, rispéridone et clarithromycine) et d’IKs (quinidine et indapamide) conjointement. Il est ainsi fort probable d’observer une prolongation importante de l’intervalle QT chez cette patiente.
+
+6) De plus, Mme J.K. est plus à risque du fait qu’elle est une femme, ce qui la prédispose fortement à développer des TdP. En effet, deux tiers des patients développant des TdP sont des femmes.
+
+7) Finalement, une hypokaliémie causée par l’indapamide pourrait être observée chez Mme J.K., aggravant ainsi le risque de prolongement de l’intervalle QT.
+
+En bref, la patiente se voit prescrire trois substrats/inhibiteurs du CYP3A4, deux substrats/inhibiteurs du CYP2D6, deux substrats/inhibiteurs de P-gp, trois bloqueurs d’IKr et deux bloqueurs d’IKs. Il nous apparaîtrait alors judicieux d’effectuer un électrocardiogramme de surface chez cette patiente afin d’évaluer un éventuel allongement de son intervalle QT. La prescription de clarithromycine nous semblerait, dans ce cas précis, d’un rapport bénéfice/risque très bas et potentiellement torsadogénique, voire fatal. Cette prescription pourrait être remplacée, à titre d’exemple, par l’association amoxicilline/acide clavulanique.

@@ -1,0 +1,63 @@
+EJ est une jeune patiente de 5 ans d’origine coréenne en visite au Québec avec ses parents depuis trois semaines. Elle se présente à l’urgence avec un tableau de fièvre persistante depuis cinq jours, des vomissements, une douleur importante au cou avec une incapacité de mobilisation, une dysphagie et une diminution de l’état de santé général avec confusion, difficulté à parler et à marcher depuis 24 à 48 heures. Elle pèse 24 kg, n’a pas d’antécédents médicaux particuliers, ne prend aucune médication, n’a pas d’allergie connue, et ses vaccins sont à jour selon les parents. Il n’y a pas d’antécédents pathologiques familiaux particuliers de ce côté. L’évaluation initiale de la patiente révèle la présence d’un choc septique avec une tension artérielle de 89/36 mm Hg et une fréquence cardiaque de 150 battements/minute. Une perfusion de dopamine est entreprise à la salle d’urgence. EJ ne présente toutefois pas de détresse respiratoire à son arrivée. Étant donné la suspicion d’un foyer infectieux dans la zone cervicale, un TACO du cou et de la tête est demandé. Le TACO du cou démontre la présence d’un phlegmon et d’une cellulite rétropharyngée avec des signes de mastoïdite et d’otite moyenne à gauche. Le TACO cérébral initial est normal, sans aucune thrombose. La radiographie pulmonaire est normale. La patiente est mise sous antibiothérapie à large spectre et est admise aux soins intensifs pédiatriques au jour 1 avec un diagnostic préliminaire de phlegmon rétropharyngé avec méningite possible. Une ponction lombaire ne peut cependant être réalisée à ce moment en raison de son instabilité hémodynamique. Elle présente également une leucocytose à 24,6 X 109/l, une thrombocytopénie à 11 X 109/l et une coagulation intravasculaire disséminée. Pendant la première semaine aux soins intensifs pédiatriques, son état hémodynamique se stabilise et la coagulation intravasculaire disséminée rentre dans l’ordre.
+
+Au jour 3, la patiente développe un stridor important nécessitant une intubation en salle d’opération, où l’on procède également à une myringotomie. Une culture du pus de l’oreille moyenne est faite à ce moment. Un TACO du cou et de la tête est répété et démontre cette fois une thrombose de la veine jugulaire interne (VJI) gauche. Le diagnostic de syndrome de Lemierre (SL) commence alors à être suspecté. Au regard de la détérioration clinique de la patiente, l’antibiothérapie est changée pour imipenem et clindamycine. Le tableau I résume la pharmacothérapie reçue au cours de l’épisode de soins aux soins intensifs pédiatriques.
+
+Tableau I : Traitement pharmacologique reçu en fonction des jours d’hospitalisation
+Médicaments/ 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+jour d’hospitalisation
+Dopamine perfusion IV x x x
+Norépinéphrine perfusion IV x x x
+Acétaminophène
+325 mg IR aux 4 h prn x x x x x x x x x x x x x x x x x x x x x x x x
+Pénicilline G
+1,2 MUI IV aux 4 h x x x
+Pénicilline G
+2 MUI IV aux 4 h x x x x x x x x x x x x x x x x x x x x
+Vancomycine
+360 mg IV aux 6 h x x x
+Céfotaxime
+1,8 g IV aux 6 h x x x
+Imipenem
+600 mg IV aux 6 h x x x x x x x x x x x x x
+Clindamycine
+300 mg IV aux 8 h x x x
+Métronidazole
+190 mg IV aux 6 h x x x x x x x x x x x x x x x x x x x x
+Fluconazole
+300 mg IV aux 24 h x x x x x x x x x x x x x x x x
+Pipéracilline/tazobactam
+1,5 g IV aux 6 h x x x x x
+Tobramycine
+selon pharmacocinétique x x x x x
+Ranitidine
+25 mg IV aux 8 h x x x x x x x x x x x x x x x
+Furosémide 5 mg IV aux 6 à 12 h x x x x x
+Morphine 1 à 2 mg IV
+aux 2 à 3 h prn x x x x x x x x x x x x
+Morphine perfusion IV x x x x x
+Fentanyl IV pré-aspiration x x x x x x x x x x x x x x x x x x x x
+Lorazépam 0,5 à 1 mg IV
+aux 6 à 8 h prn x x x x x x x
+Ciprofloxacine 0,3 %
+gttes oph oreille gauche 2 x / j x x x x x x x x x x x x x x x x x x x x x x
+Dexamethasone 0,1 %
+gttes oph oreille gauche 2 x / j x x x x x x x x x x x x
+Lacrilube dans les 2 yeux aux 4 h x x x x x x x x x x x x x x x x
+Héparine perfusion IV x x x
+ASA 40 mg 1 x / j x x x
+ASA 40 mg 3 x / j x x
+ASA 40 mg 4 x / j x x x
+Dipyridamole
+120 mg 3 x / j x x x
+Dipyridamole
+200 mg 3 x / j x x x x
+
+Au jour 4, on note une diminution de son état d’éveil. Au jour 5, on effectue une résonance magnétique afin de mieux investiguer les sinus cérébraux. Celle-ci démontre une thrombose du sinus caverneux, du sinus transverse gauche et de la carotide droite. Étant donné ces phénomènes thrombotiques importants, une perfusion d’héparine est entreprise avec l’accord de l’hématologue. L’antibiothérapie est à nouveau modifiée au profit de la pénicilline, du métronidazole et de l’imipenem. La radiographie pulmonaire au jour 6 démontre la présence d’embolies septiques.
+
+Au jour 7, l’état général de la patiente continue à se détériorer et elle demeure toujours fébrile. On note maintenant une hémiparésie gauche. On répète alors un TACO qui révèle la présence d’un accident vasculaire cérébral massif dans la zone sylvienne droite ainsi qu’au cervelet droit en plus des thromboses révélées au jour 5. À la lumière de ces importantes découvertes et de la persistance du processus infectieux, on cesse d’administrer l’héparine et on procède à une intervention chirurgicale extensive visant à drainer tous les sites d’accumulation de liquide infecté de même qu’à la résection de la veine jugulaire interne gauche. Selon la suggestion de l’hémathologue, un traitement antiplaquettaire à base d’acide acétylsalicylique (AAS) et de dipyridamole est entrepris à la suite de la chirurgie. Dans les cinq jours suivant la chirurgie, l’état clinique de EJ s’améliore et l’enfant devient afébrile. On conserve toujours une couverture antibiotique à base d’imipenem, métronidazole et pénicilline. Au jour 8, la culture du liquide prélevé au jour 3 dans l’oreille interne atteste la présence de Fusobacterium necrophorum. Ceci confirme alors le diagnostic d’un syndrome de Lemierre.
+
+Au jour 13, la patiente développe un saignement important de son foramen jugulaire gauche. La patiente est en état de choc hémorragique et on la transporte d’urgence au bloc opératoire où le choc est contrôlé avec de la dopamine et une réplétion volémique. On cessa alors l’administration d’AAS et de dipyridamole.
+
+Au jour 17, on effectue à nouveau une résonance magnétique qui démontre la présence d’un nouvel abcès rétropharyngé nécessitant un drainage au jour 18. On retrouve un bacille gram négatif avec des cocci gram positif dans le liquide drainé, ce pour quoi on commence l’administration de pipéracilline/tazobactam et de tobramycine, qui seront cessés au jour 23. On effectue le drainage d’une autre collection cutanée au jour 21. Au jour 22, date du dernier TACO de la tête, on note une amélioration à tous les sites infectieux, particulièrement dans la zone cervicale gauche.
+
+Au jour 26, EJ est finalement extubée sans aucune complication. Elle est transférée en pédiatrie générale au jour 30. À ce moment-là, elle est sous pénicilline et métronidazole, une antibiothérapie intraveineuse qu’elle recevra pendant six semaines. L’AAS est également repris à la dose de 40 mg die. La patiente présente des séquelles de son accident vasculaire cérébral sylvien droit, soit une hémiparésie gauche, une ophtalmoplégie bilatérale et une atteinte du septième nerf crânien. Elle semble malgré tout avoir un contact adéquat avec ses parents et répond adéquatement aux ordres simples. Elle quitte finalement l’hôpital après 84 jours d’hospitalisation.

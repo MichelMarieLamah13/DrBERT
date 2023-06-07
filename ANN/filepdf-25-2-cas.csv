@@ -1,0 +1,26 @@
+entity_group,score,word,start,end
+LIVB,0.7655372,Patient de 67 ans,0,17
+DISO,0.97743285,adénomite aiguë,64,80
+LIVB,0.9370737,E. coli,82,90
+DISO,0.88635904,dysurie franche,95,111
+ANAT_PROC,0.45196405,prostate,132,141
+CHEM,0.726544,volume,154,161
+PROC,0.879132,échographie endorectale,188,211
+DISO,0.9567618,nodules,230,238
+ANAT,0.8621185,zone périphérique,279,297
+CHEM,0.6217487,PSA,309,313
+CHEM,0.6442058,"4,49 ng/ml",322,333
+PROC,0.8748041,ponctions biopsies,338,357
+ANAT_PROC,0.65878016,prostate,360,369
+PROC,0.6017997,échoguidées,369,381
+DISO,0.9266131,réaction inflammatoire chronique,405,438
+ANAT,0.83635277,corps,466,472
+ANAT,0.5952199,M.G,475,479
+ANAT,0.8436168,cytoplasme,487,498
+ANAT,0.8318603,macrophages,502,514
+DISO,0.78456014,malignité,529,539
+PROC,0.96844804,traitement,543,554
+CHEM,0.8606877,ant ibiotiques,568,583
+CHEM,0.6172757,fl uoroquinolones,585,602
+CHEM,0.93240887,alpha-bloquants,635,651
+DISO,0.9342992,symptomatologie,673,689

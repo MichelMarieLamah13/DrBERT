@@ -1,0 +1,99 @@
+AB est une patiente de 15 ans, sans histoire médicale antérieure particulière, qui a été diagnostiquée d’un ostéosarcome du fémur gauche non métastatique. Elle a été traitée initialement selon le protocole POG 9754, suivi du protocole AOST 0331 en raison d’une réponse histologique défavorable au traitement initial. Le tableau I présente la chimiothérapie reçue par la patiente jusqu’à ce jour. Il s’agit d’une chimiothérapie très intensive incluant du cisplatine à haute dose (≥ 50 mg/m2).
+
+Dès le premier cycle de chimiothérapie, la patiente a été extrêmement nauséeuse, avec plusieurs vomissements pendant le traitement ainsi que plusieurs jours après celui-ci, et ce, malgré l’utilisation des antiémétiques habituels. Le tableau I présente les antiémétiques utilisés lors de chaque cycle de chimiothérapie. Il est à noter qu’il s’agit des traitements prescrits au début de chaque cycle, et certains ajustements peuvent avoir été faits par la suite, qui n’ont pas été notés ici par souci de synthèse.
+
+Au cours des cycles subséquents, de nombreux essais ont été faits pour tenter d’améliorer le contrôle des nausées et des vomissements. L’ajout de la prochlorpérazine semblait avoir apporté un meilleur contrôle des vomissements sans toutefois soulager les nausées, qui étaient toujours très présentes. Les effets secondaires de la prochlorpérazine (étourdissements et somnolence) ont mis un terme à son utilisation. L’ajout de la nabilone s’est révélé peu efficace. Par contre, l’utilisation de cette molécule a tout de même été poursuivie faute de médicament plus efficace. À la semaine 1 du 2e protocole, la patiente ne voulait plus recevoir la nabilone en raison des effets indésirables et du faible bénéfice ressenti. De la somnolence et des étourdissements ont aussi été ressentis par la patiente avec le dimenhydrinate ainsi qu’avec la combinaison métoclopramide/diphenhydramine, qui furent aussi cessés. Le lorazépam, utilisé de façon régulière, semblait être la meilleure approche, la composante d’anxiété étant très présente chez cette patiente.
+
+Les hospitalisations pour chimiothérapie se prolongeaient souvent au-delà de la date prévue de congé en raison des nausées et des vomissements allant jusqu’à empêcher l’alimentation. De l’alimentation parentérale a été prescrite à une reprise, et la patiente a été mise sous gavages nocturnes. La patiente a dû également être hospitalisée pour de la déshydratation importante secondaire à des nausées et à des vomissements à la suite d’un cycle de doxorubicine/cisplatine. À la suite de cette hospitalisation, l’équipe traitante a décidé d’entreprendre des démarches auprès du PAS pour obtenir l’aprépitant.
+
+Tableau I : Informations sur la chimiothérapie, les antiémétiques et les nausées et vomissements de A.B.
+Protocole Semaine Agents Potentiel Antiémétiques Nausées Vomissements Nausées et Commentaires
+de tx utilisés émétisant1 utilisés vomissements retardés
+POG 9754 1 Doxorubicine 5 Ond, Dex, Mét, +++ +++ +++ Aucun apport PO
+37,5 mg/m2 x 2 jrs Dip, Lor, Dim toléré
+Cisplatine (ad 1 sem post-cisplatine) Hospitalisation
+60 mg/m2 x 2 jrs prolongée
+(8 jours supp.)
+4 Méthotrexate 12 g/m2 4 Gra, Dex, Lor, Pro, Nab + 0 0
+5 Méthotrexate 12 g/m2 4 Gra, Dex, Lor, Pro, Nab + 0 0 Nausées et vomissements anticipatoires
+6 Doxorubicine 5 Ond, Dex, Lor, Mét, Nab +++ +++ +++ Perte de poids
+37,5 mg/m2 x 2 jrs de 10 % depuis semaine 1
+Cisplatine Hospitalisée
+60 mg/m2 x 2 jrs 1 semaine après
+congé pour
+déshydratation
+à la suite de
+nausées et de
+vomissements
+retardés
+incoercibles
+9 Méthotrexate 12 g/m2 4 Ond, Dex, Lor, Pro, Nab +++ 0 0 Nausées
+anticipatoires
+10 Méthotrexate 12 g/m2 4 Ond, Dex, Lor, Pro, Nab +++ 0 0
+11 CHIRURGIE
+13 Méthotrexate 12 g/m2 4 Gra, Lor, Mét, Nab, Dim + + + Pas de
+dexaméthasone,
+car installation
+prothèse
+Nausées
+anticipatoires
+Difficultés
+alimentaires,
+HAIV
+14 Doxorubicine 5 * Aprépitant * + 0 0 Moments sans
+37,5 mg/m2 x 2 jrs Gra, Dex, Lor, Nab, Dim nausées
+Cisplatine
+60 mg/m2 x 2 jrs
+AOST 0331 1 Étoposides 4 * Aprépitant * + + +++ Hospitalisée
+100 mg/m2 x 5 jrs 3 jours
+Gra, Dex, Lor , Mét supplémentaires
+Ifosfamide en raison de
+2,8 mg/m2 x 5 jrs nausées et de
+vomissements
+4 Méthotrexate 12 g/m2 4 * Aprépitant * + 0 0
+Ond , Dex, Lor, Mét, Dip
+5 Doxorubicine 5 * Aprépitant * + + 0 Moments sans
+37,5 mg/m2 x 2 jrs Ond, Dex, Lor, Mét, Dip nausées
+Ifosfamide 3 g/m2 x 3 jrs
+8 Méthotrexate 12 g/m2 4 * Aprépitant * + 0 0
+Ond, Dex, Lor, Mét, Dip
+9 Étoposide 4 * Aprépitant * + + 0 Nausées
+100 mg/m2 x 5 jrs anticipatoires
+Ond, Dex, Lor, Mét, Dip Moments
+Ifosfamide 2,8 mg/m2 x 5 jrs sans nausées
+12 Méthotrexate 12 g/m2 4 * Aprépitant * + 0 0 Nausées
+Ond, Dex, Lor, Mét, Dip anticipatoires
+Tableau I : Informations sur la chimiothérapie, les antiémétiques et les nausées et vomissements de A.B. (suite)
+Protocole Semaine Agents Potentiel Antiémétiques Nausées Vomissements Nausées et Commentaires
+de tx utilisés émétisant1 utilisés vomissements
+retardés
+13 Doxorubicine 5 * Aprépitant * + 0 0 Moments sans
+37,5 mg/m2 x 2 jrs nausées
+On, Dex, Lor, Mét, Dip
+Cisplatine
+60 mg/m2 x 2 jrs
+16 Méthotrexate 12 g/m2 4 * Aprépitant * + Nausées légères 0 Nausées et
+Ond, Dex, Lor, Mét vomissements
+anticipatoires
+17 Étoposide 4 * Aprépitant * + + +++ Nausées et
+100 mg/m2 x 4 jrs vomissements
+anticipatoires
+Ond, Dex, Lor Moments sans
+nausées
+(doses diminuées Ifosfamide Hospitalisation
+de 20 % en raison 2,8 mg/m2 x 4 jrs prolongée
+de neutropénie (9 jours supp.)
+prolongée)
+20 Méthotrexate 12 g/m2 4 Ond, Dex, Lor ++ ++ +++ Nausées
+anticipatoires
+Dex = dexaméthasone 10 mg IV pré chimio puis q6h prn ou régulier (5 mg si avec aprépitant)
+Dim = dimenhydrinate 50 mg IV q6h prn
+Dip = diphenhydramine 25 mg IV q6 heures prn ou régulier avec métoclopramide et prochlorpérazine
+Gra = granisétron 2 mg IV q4h rég (max:2)
+Lor = lorazépam 0,5 à 1 mg IV q6h prn ou régulier
+Mét = métoclopramide 50 mg IV q6 heures prn ou régulier
+Nab = nabilone 0,5 à 1 mg PO die
+Ond = ondansétron 8 mg IV q4h rég (max:3)
+Pro = prochlorpérazine 5 mg pré et q6h prn
+
+L’aprépitant a été introduit à la 14e semaine de traitement pour un cycle de deux jours de doxorubicine/cisplatine. Il a été administré à raison de 125 mg PO la première journée de chimiothérapie et de 80 mg PO les deuxième et troisième journées. Même si l’aprépitant est officiellement indiqué seulement pour les cycles de chimiothérapie incluant le cisplatine, considérant la gravité des nausées et des vomissements expérimentés par cette patiente, il a été décidé de l’utiliser pour tous les autres cycles.

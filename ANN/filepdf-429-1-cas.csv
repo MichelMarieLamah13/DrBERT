@@ -1,0 +1,27 @@
+entity_group,score,word,start,end
+LIVB,0.8999672,femme de 73 ans,15,31
+DISO,0.9455205,détresse,49,58
+ANAT_DISO,0.66363394,respiratoire,58,71
+DISO,0.85010374,pneumothorax,75,88
+ANAT,0.47752348,urale,116,121
+DISO,0.953453,syndrome,152,161
+ANAT_DISO,0.7888196,coronarien,161,172
+DISO,0.6496556,aigu,172,177
+DISO,0.9283746,insuffisance,210,222
+ANAT_DISO,0.7827649,ventriculaire gauche,222,243
+DISO,0.9032928,pneumothorax,254,267
+ANAT_DISO,0.66755104,gauche,267,274
+PROC,0.87347156,pose,302,307
+ANAT_PROC,0.5276828,cathéter veineux central,312,337
+DISO,0.89902633,défaillance,354,366
+ANAT_DISO,0.5965617,hémodynamique,366,380
+DISO,0.8597028,syndrome démentiel,424,443
+LIVB,0.96685725,patiente,474,483
+PROC,0.42316702,automédication,499,513
+PROC,0.6895687,dosages,579,587
+CHEM,0.5261486,d’argent,587,596
+ANAT,0.54946345,plasma,677,684
+ANAT,0.70404744,sang total,696,707
+LIVB,0.9290753,malade,723,730
+DISO,0.93816555,complications,761,775
+ANAT_DISO,0.7954548,cardiaques,775,786

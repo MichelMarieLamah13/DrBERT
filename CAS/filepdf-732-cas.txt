@@ -1,0 +1,64 @@
+Il s’agit d’un jeune homme de 17 ans, qui se présente à la clinique de dermatologie pour le suivi de son traitement de l’acné vulgaire par l’isotrétinoïne. Lors de l’anamnèse, le patient se plaint de transpirations excessives, d’une augmentation graduelle de l’intensité de céphalées frontales récidivantes et d’une diminution de la vision. On demande une consultation en neurologie. Lors de la visite, le neurologue découvre fortuitement une hypertension artérielle atteignant des valeurs de 185/120 mm Hg. Le patient est asymptomatique, mais l’examen du fond de l’œil est douteux. Il est admis en pédiatrie pour subir des investigations.
+
+Le patient est traité pour une acné vulgaire, des céphalées frontales récidivantes et de l’asthme, pour lesquels il reçoit de l’isotrétinoïne 40 mg par voie orale une fois par jour, de l’acétaminophène par voie orale au besoin, du salbutamol en inhalation au besoin et de la fluticasone en inhalation au besoin. Il souffre par ailleurs d’allergies saisonnières, d’hypercholestérolémie secondaire à la prise d’isotrétinoïne et de myopie nécessitant le port de verres correcteurs. Son frère jumeau identique est également atteint d’acné vulgaire et d’asthme. Aucun antécédent familial d’hypertension, de néphropathie, de néoplasme de la glande thyroïde et des glandes surrénales n’est noté à l’anamnèse.
+
+À son admission, le patient a une tension artérielle et une fréquence cardiaque qui s’élèvent respectivement à 184/112 mm Hg et à 96 battements par minute. Il est asymptomatique. Le reste de l’examen physique ne révèle aucune particularité. On lui prescrit un dosage des cathécolamines et de leurs métabolites sur une collecte urinaire de 24 heures. On commence à lui donner de la nifédipine quelques heures plus tard en raison d’une augmentation de la tension artérielle, qui atteint des valeurs supérieures à 200/130 mm Hg. La liste des médicaments reçus durant l’hospitalisation se trouve au tableau I.
+
+Tableau I : Médicaments reçus au cours de l’hospitalisation
+MÉDICAMENTS 1 2 3 4 5 6 7 8 9 15 16 17 18 19 20 21 22 23 24 25
+Période préopératoire
+Nifédipine
+2,5 mg PO Q 4H PRN X
+5 mg PO Q 4H PRN X
+10 mg PO Q 4H PRN X X
+Phénoxybenzamine
+10 mg PO 2 x/j X
+5 mg PO 2x/j X
+10 mg PO 3x/j X X X X X X X X X
+NaCl 0,45% (mL/h) X X X X X X
+Acétaminophène
+650 mg PO Q 4-6H PRN X X X X X X
+Métoprolol 50 mg PO 2 x/j X X X
+NaCl 0,45% + D5% +
+KCl 20 mEq/L X
+Période périopératoire
+Induction1 X
+Maintien2 X
+Colloïdes X
+Crystalloïdes X
+Norépinéphrine X
+Période postopératoire
+Acétaminophène
+650 mg PO Q 4H PRN X X X X X X X
+NaCl 0,45% + D5% +
+KCl 20 mEq/L X X X X X X
+Épidurale3 X
+ACP4 X X X
+Furosémide
+10 mg IV STAT X
+20 mg IV STAT X
+Lorazépam
+2 mg IV Q 6H PRN X X X
+2 mg SL Q 6H PRN X X X
+Naproxène
+250 mg PO 3 x/j X X X
+Lévofloxacine
+500 mg PO 1x/j X X X
+Hydromorphone
+1-2 mg PO Q 4H PRN X X X
+1 Induction : propofol, rémifentanyl et rocuronium
+2 Maintien : épidurale (bupivicaïne, fentanyl, épimorphine), rémifentanyl et sévoflurane
+3 Épidurale : bupivicaïne, fentanyl et épimorphine
+4 ACP : analgésie contrôlée par le patient : kétamine et hydromorphone
+
+Au jour 2, la tension artérielle et la fréquence cardiaque du patient atteignent respectivement 191/95 mm Hg et 125 battements par minute. Le jeune homme présente une légère céphalée. On ajuste les doses de nifédipine. L’échographie abdominale et pelvienne révèle la présence d’une masse surrénalienne à droite. On suspecte un phéochromocytome, et on prescrit au patient de la phénoxybenzamine. L’examen ophtalmique révèle l’absence de papilloedème.
+
+Au jour 3, on note deux épisodes d’hypotension orthostatique. La tension artérielle est transitoire. La dose de phénoxybenzamine est réévaluée à la baisse, on cesse d’administrer la nifédipine, et on commence un remplissage vasculaire. Le dosage des catécholamines plasmatiques révèle une augmentation de la norépinéphrine et de l’épinéphrine. Le dosage de thyrothropine, de parathormone et d’aldostérone est normal. L’électrocardiogramme ne révèle rien d’anormal. On annule la tomodensitométrie cérébrale avec coupe fine au niveau du nerf optique. En lieu et place, on réalise une imagerie par résonance magnétique cérébrale.
+
+Au jour 5, la tension artérielle systolique du patient varie entre 140 et 170 mm Hg, tandis que sa tension artérielle diastolique avoisine 90 mm Hg. On lui fait une injection de 99mTc-acide méthylènediphosphonique en vue de pratiquer une scintigraphie à la méta-iodo-benzylguanidine (MIBG). Lors de la confirmation du diagnostic, le généticien suggère de pratiquer une évaluation moléculaire au patient, à son frère jumeau identique ainsi qu’à ses parents. Au jour 9, le dosage des catécholamines et de leurs métabolites urinaires révèle une augmentation de la norépinéphrine et de la normétanéphrine. La scintigraphie à la MIBG ne démontre aucune captation anormale. L’imagerie par résonance magnétique abdominale confirme la présence d’une masse surrénalienne à droite. On note un foyer d’hypercaptation au pôle inférieur du lobe thyroïdien. Au jour 11, une tomographie d’émission par positrons démontre la présence de graisse brune au niveau de la surrénale droite. L’imagerie par résonance magnétique cervicale est normale.
+
+Au jour 15, lors d’une réunion multidisciplinaire, on décide d’effectuer, au jour 18, une résection de la glande surrénale droite avec une exploration de la glande surrénale gauche. On commence immédiatement l’administration de métoprolol. La veille de la chirurgie, on effectue un remplissage vasculaire. L’échographie de la glande thyroïdienne ne révèle aucune anomalie. Au jour 16, on observe une diminution marquée de la fréquence cardiaque à la suite de l’introduction du métoprolol. Les valeurs de la fréquence cardiaque avoisinent désormais 70 battements par minute au lieu des 120 battements par minute précédemment. La tension artérielle du patient a légèrement diminué, mais elle demeure stable.
+
+Au jour 18, on effectue une exérèse de la tumeur par laparotomie. On note un épisode d’hypotension qui répond à l’administration de crystalloïde, de colloïde et de norépinéphrine. Une fois que le sevrage de la norépinéphrine est achevé, le patient est transféré à l’unité de soins intensifs. Le rapport d’anatomo-pathologie confirme la présence d’un phéochromocytome, sans invasion vasculaire, avec foyers nécrotiques. Au jour 19, les valeurs de la tension artérielle du patient sont normales, et on le transfère dans l’unité de chirurgie.
+
+Au jour 20, le résident de garde est appelé auprès du patient, car on suspecte une surcharge liquidienne. On administre au patient une dose de furosémide. Au jour 21, la tension artérielle demeure dans les valeurs normales. La radiographie pulmonaire révèle la présence d’un infiltrat à la base pulmonaire droite. On lui administre de la lévofloxacine, on lui prescrit une seconde dose de furosémide, et on diminue le débit du soluté. Au jour 23, on cesse l’antibiothérapie en l’absence de signes cliniques de pneumonie. On note une amélioration de la surcharge liquidienne. Au jour 25, le patient reçoit son congé de l’hôpital. Sa tension artérielle s’élève à 115/60 mm Hg. Une semaine plus tard, on réalisera un dosage des catécholamines et de leurs métabolites urinaires. Le patient bénéficiera d’un suivi à domicile pour sa tension artérielle.

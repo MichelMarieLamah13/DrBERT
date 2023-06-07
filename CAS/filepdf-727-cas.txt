@@ -1,0 +1,112 @@
+MA est un homme de 61 ans, ayant les antécédents médicaux suivants : embolies pulmonaires chroniques et syndrome anticardiolipine sous traitement anticoagulant depuis deux mois, hypertension artérielle, obésité (poids de 100 kg) et polyglobulie. Il est suivi en psychiatrie pour une maladie affective bipolaire. Il se présente à l’urgence pour une nette détérioration de l’état général progressant rapidement depuis une semaine, avec difficulté à marcher, étourdissements, fatigue et hyperthermie depuis moins de 48 heures. Il se plaint également d’expectorations colorées. À l’histoire médicamenteuse on note :
+Lithium 300 mg le matin et 750 mg au coucher débuté il y a au moins 11 mois;
+Acide valproïque 500 mg le matin et 750 mg au coucher débuté il y a 10 mois;
+Olanzapine 5 mg au coucher débutée il y a au moins 11 mois;
+Clozapine 125 mg au coucher débutée il y a 16 jours à doses croissantes;
+ASA 80 mg le matin;
+Métoprolol 50 mg deux fois par jour;
+Warfarine 5 mg une fois par jour 3/7jours et 7,5 mg une fois par jour 4/7 jours.
+
+D’après sa conjointe, MA n’a utilisé aucun produit naturel ou médicament de vente libre dans les jours précédents. MA n’est pas connu pour abus de drogue. MA est suivi à la clinique externe de psychiatrie et on note au dossier antérieur qu’il lui arrive de prendre des bains chauds.
+
+Une infection est soupçonnée. À l’examen, aucune rigidité n’est notée. L’état de confusion de MA est attribué à la fièvre et à la prise des médicaments psychiatriques. La clozapine est cessée et l’hydratation est débutée. Le bilan comprenant une radiographie pulmonaire, une tomographie cérébrale, une ponction lombaire, une analyse et une culture d’urine de même que des hémocultures s’avère négatif. La lithémie ainsi que le niveau d’acide valproïque sont normaux. Les valeurs de laboratoire ainsi que les signes vitaux pertinents sont présentés au tableau I.
+
+Le patient est admis aux soins intensifs au jour 2. Le lendemain, devant l’absence de foyer d’infection documenté, l’introduction récente de la clozapine, l’altération de l’état de conscience et la perturbation des signes vitaux notée, un diagnostic de syndrome neuroleptique malin atypique est posé. L’olanzapine est alors cessée. MA est intubé pour la protection des voies respiratoires, et le dantrolène 80 mg IV aux 6 heures est débuté. Le tableau II résume la pharmacothérapie reçue au cours de cet épisode de soins.
+
+Au jour 6, la condition du patient est améliorée sur le plan neurologique. Il demeure toutefois fébrile avec une température rectale de 39,2 oC malgré l’utilisation d’un matelas réfrigérant et l’administration régulière d’acétaminophène et de naproxen. Un foyer d’infection n’est toujours pas identifié. Aucune rigidité ou raideur n’est notée. C’est alors que la bromocriptine 2,5 mg via levine trois fois par jour est introduite. MA n’est plus fébrile le lendemain matin. Au cours des jours suivants, l’état de MA évolue favorablement et on tente de l’extuber au jour 8. Cette tentative se solde par un échec.
+
+Tableau I: Signes vitaux et analyses de laboratoire en fonction des jours d’hospitalisation
+Analyses de 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+laboratoire
+et signes
+vitaux/jour
+d’hospitalisation
+Urée (2-8 mmol/L) 5,0 5,1 4,8 5,5 5,3 6,7 7,2 6,4 8,1 9,8 9,0 12,2 13,6 12,5 12,5 12,6 12,1 10,0 9,2 14,2 12,9 12,1 9,4 85
+Créatinine 91 95 101 119 108 114 97 94 113 103 107 96 101 111 103 91 92 93 85 94 86 81 70 75
+(65-125 μmol/L)
+Na (134-144 mmol/L) 135 140 147 143 147 149 150 148 147 150 152 145 148 153 150 149 147 148 149 149 146 146 150 145
+K (3,6-5,1 mmol/L) 3,7 4,1 3,5 4,2 4,0 3,7 3,6 4,4 4,0 4,0 3,9 3,7 3,8 3,6 3,5 3,4 3,3 3,3 3,5 3,5 3,4 3,5 3,3 2,9
+Cl (97-108 mmol/L) 103 109 119 115 118 122 123 117 115 114 117 114 115 115 116 118 116 119 121 118 114 117 120 114
+Leucocytes (4,4- 15,7 17,6 18,9 17,8 14,8 13,6 14,8 16,2 18,3 22,4 25,7 22,6 22,3 21,3 24,1 22,5 19,8 17,5 22,6 20,4 14,3 10,8 8,5 8,6
+10,8 X 109 cell/L)
+Neutophiles (1,4- 9,6 13,2 16,2 15,0 11,2 9,9 11,2 13,6 14,8 16,8 22,1 19,9 18,7 18,7 20,5 18,0 15,4 14,9 19,0 16,9 11,9 7,8 6,1 5,2
+6,5 X 100 cell/L)
+INR (0,8-1,2) 1,6 1,6 1,8
+CK (40-190 U/L) 78 77 102 328 100 68 35 27 24 19 15 17 20 26 35 56 47 60 68 70 56 54
+Troponine (0-0,05 μg/L) 0,03 0,05
+AST (22-31 U/L) 25 26 35
+ALT (7-56 U/L) 27 27 75
+LD (98-192 U/L) 217 236
+Ac. Valproïque 605 89
+(350-700 μmol/L)
+Lithémie 0,7 0,7 0,6 0,3
+(0,5-1,3 mmol/L)
+Tas (mm Hg)1 120 130 130 110 120 120 120 120 150 115 130 120 110 125 110 105 110 110 100 95 115 130 95
+Tad (mm Hg)2 90 95 85 70 70 80 70 80 90 85 70 70 60 75 60 65 65 80 60 70 60 70 65
+Pouls (battements/min) 115 105 85 80 80 75 65 75 85 80 70 70 80 65 70 70 75 105 80 60 70 60 55
+RR (respirations./min)3 46 50 18 N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A 20
+Température (oC) 39,1 39,0 37,2 38,5 39,2 38,0 37,5 38,5 38,7 39,3 37,5 37,8 38,8 38,2 37,9 38,3 37,8 38,7 38,0 36,5 36,5 36,3 36,1
+Hémocultures (-) (-) (-) (-)
+Analyses urine (-) (-) (+)4
+Cultures urine (-) (-) (-)
+Cultures expectorations (+)5 (+)5 (+)5
+Ponction lombaire (-)
+1 Tas - Tension artérielle systolique.
+2 Tad - Tension artérielle diastolique.
+3 RR - Rythme respiratoire.
+4 Présences de leucocytes.
+5 Proteus mirabilis sensible à ampicilline, céfazoline, ciprofloxacin, trimethoprim/sulfamethoxazole et aminosides.
+
+Au jour 9, MA est de nouveau fiévreux et la leucocytose est à la hausse. Son état est qualifié de stable, par ailleurs. Au jour 10, on note une détérioration de l’état neurologique de MA. D’abondantes sécrétions sont présentes dans le tube endotrachéal. La culture de ces sécrétions est positive pour Proteus mirabilis. On suspecte donc qu’une infection respiratoire est à l’origine de la détérioration de l’état général de MA; l’antibiothérapie est débutée. L’hyperthermie est contrôlée avec l’indométhacine.
+
+Au jour 13, l’état de MA s’est à nouveau amélioré et le patient est afébrile. L’indométhacine est cessé. La fièvre reprend le lendemain et un nouveau bilan infectieux est fait. Seule la culture d’expectorations est positive. La fièvre semble être à l’origine de la confusion de MA. On reprend donc l’indométhacine.
+
+Au jour 16, on note l’apparition d’un diabète insipide. Le lithium et l’acide valproïque sont suspectés d’en être la cause et sont cessés. Après une évolution favorable de son état au cours des deux jours suivants, MA redevient fébrile au jour 19. Les deux hypothèses retenues pour l’origine de sa fièvre sont le syndrome neuroleptique malin ou une cause infectieuse. Il demeure fébrile au jour 20. La fièvre tombe finalement au jour 21, MA est bien éveillé et son état neurologique est bon. Il est extubé au jour 23; le jour 24, on considère le syndrome neuroleptique malin comme étant résolu.
+
+Tableau II : Traitement pharmacologique reçu lors de l’épisode du syndrome neuroleptique malin
+Médicaments/jour 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+d’hospitalisation
+Lithium 300 mg x x x x x x x x x x x x x x x x
+QAM + 750 mg QHS
+Acide Valproïque 500 mg x x x x x x x x x x x x x x x x
+QAM + 750 mg QHS
+Olanzapine 5 mg QHS x
+Clozapine x
+Hydratation x x x x x x x x x x x x x x
+Eau TID x x x x x x x x x x x x x x x x x x
+Dantrolène 80 mg IV Q6H x x x x x x x x
+Dantrolène 100 mg Q6H x x x x x x x x
+Bromocriptine 2,5 mg TID x x x x x x x x x x x
+Acétaminophène au besoin x x x x x x x x x x x x x x x x x x x x x x x
+si fièvre
+Acétaminophène 1 g QID x x x
+Naproxen 500 mg BID x x
+Indométhacine 50 mg IR BID x x x x
+Indométhacine 50 mg IR x x x x x x x x x x x
+Q12H prn
+ASA 80 mg DIE x x x x x x x x x x x x x x x x x x x x x x x x
+Warfarine selon calendrier x
+Héparine IV selon protocole x x x x x x x x x x x x x x x x x x x x x x x
+Métoprolol 50 mg BID x x x x x x x x x x x x x x x
+Métoprolol 25 mg BID x x x x x x x x x x
+Lorazépam 1 mg IM x
+Q1H x 2 prn
+Lorazépam 1 mg SC prn x x
+Propofol IV débit variable prn x x x x x x x x x x x x x x x x
+Midazolam IV débit x x
+variable prn
+Ranitidine 50 mg IV Q8H x x x x x x x x x x x x
+Insuline SC selon échelle x x x x x x x x x x x x x x x
+Ampicilline 1 g IV Q6H x x x x x x
+Ampicilline 2 g IV Q6H x x x x x
+Gentamicine selon x x x x x x x x x
+pharmacocinétique
+Piperacilline/tazobactam x x x x
+4 g Q6H
+Triméthoprim/ x x x
+sulfaméthoxazole DS BID
+Furosémide IV x x x x x
+Acétazolamide 250 mg x
+KCl remplacement x x x x x x x x x x x
+selon protocole
+KCl 40 meq BID x

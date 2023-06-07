@@ -1,0 +1,16 @@
+entity_group,score,word,start,end
+ANAT,0.5743941,fête techn,62,73
+ANAT,0.42383498,ra,75,77
+PROC,0.2645876,échantillons,97,110
+ANAT,0.62700677,capsules,113,122
+ANAT,0.5037632,graines,125,133
+ANAT,0.43713513,dat,136,140
+DISO,0.6727317,syndrome atropinique,241,262
+DISO,0.912305,tachycardie,274,286
+DISO,0.97988176,hallucinations,289,304
+PROC,0.6924084,prélèvements,309,322
+ANAT_PROC,0.63729423,sanguins,322,331
+PROC,0.89485025,hospitalisation,367,382
+CHEM,0.95992553,atropine,426,434
+CHEM,0.96353436,scopolamine,440,452
+CHEM,0.76399595,cannabis,488,497

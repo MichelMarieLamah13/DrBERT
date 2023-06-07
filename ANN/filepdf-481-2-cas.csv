@@ -1,0 +1,19 @@
+entity_group,score,word,start,end
+LIVB,0.92277914,homme,51,57
+LIVB,0.97159755,43 ans,60,67
+PROC,0.5453952,hospitalisé,73,85
+PROC,0.7625071,réanimation,88,100
+DISO,0.68977195,coma inexpliqué,108,124
+DISO,0.7216008,Glasgow,142,150
+PROC,0.8782338,admission,183,193
+PROC,0.9469791,intubation,235,246
+PROC,0.86903024,ventilation mécanique,253,275
+PROC,0.66592467,bilan,279,285
+LIVB,0.94648325,patient,327,335
+CHEM,0.6639648,comprimés de Séresta 50 mg,365,392
+CHEM,0.24397911,véhicule,413,422
+PROC,0.86403704,injection intraveineuse,445,468
+CHEM,0.7881095,poudre « NRG,471,484
+PROC,0.5725703,bilan,490,496
+DISO,0.49031162,évolution,547,556
+PROC,0.8709799,admission,615,625

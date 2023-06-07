@@ -1,0 +1,23 @@
+Une femme âgée de 98 ans est hospitalisée pour une résection d’un insulinome ; on pratique donc une pancréatectomie partielle. À la suite de nombreuses complications antérieures et postérieures à la chirurgie, la patiente est transférée en juin à l’Unité de gériatrie pour bénéficier de services de réadaptation.
+
+Dans ses antécédents, on note une histoire d’hypertension, d’angine, d’angioplastie et la pose d'une endoprothèse vasculaire dans l’artère coronaire droite ainsi que des diarrhées associées au Clostridium difficile. Lors de son transfert à l’Unité de gériatrie, elle prend les médicaments suivants : de la nitroglycérine, un timbre de 0,4 mg à appliquer une fois par jour le matin à 8 h et à enlever le soir à 20 h, du furosémide, 40 mg une fois par jour, le matin, de l’amlodipine, 5 mg une fois par jour, de l’acétaminophène, 650 mg quatre fois par jour au besoin, de la dompéridone, 10 mg trois fois par jour, de la vancomycine, 500 mg quatre fois par jour et du lorazépam, 1 mg une fois par jour au coucher au besoin. La patiente ne présente aucune allergie. Son poids à l’admission à l’Unité de gériatrie est de 43 kg. Sa clairance à la créatinine calculée à son admission à l’Unité de gériatrie est de 22 ml par minute. On effectue un ajustement de ses médicaments, soit un sevrage graduel de la vancomycine et l’arrêt de la dompéridone et du lorazépam.
+
+La période de réadaptation se passe plutôt bien, et la patiente est prête à quitter l’hôpital pour s’en aller dans une résidence pour personnes semi-autonomes. Le 15 août, elle présente des frissons et se plaint soudainement de crampes abdominales associées à des nausées. La patiente est agitée et fait un pic fébrile à 39°C. On suspecte alors une septicémie. On lui administre 650 mg d’acétaminophène, quatre fois par jour, pour diminuer la température. Le 18 août, un second épisode de frissons et de fièvre apparaît.
+
+Le 19 août, une échographie abdominale révèle un abcès splénique probablement associé à sa récente pancréatectomie partielle. Le 20 août, on effectue un drainage chirurgical. Aucune complication n’apparaît, et on prélève 120 ml de liquide de couleur jaune verdâtre aux fins d’analyse. En attendant les résultats biologiques et après que la patiente a reçu une consultation en infectiologie, on a commencé une antibiothérapie empirique à l’imipénemcilastatine, par voie intraveineuse, avec une posologie de 500 mg chaque six heures, ceci en raison du large spectre d’action du produit. Outre le traitement à l’antibiotique, on a procédé au drainage de l’abcès à l’aide d’un cathéter de drainage pigtail. La patiente était cliniquement stable. Les résultats biologiques montrent alors un taux élevé de globules blancs, soit 26,75 x 109/L, et des phosphatases alcalines : 361 U/L.
+
+Le 23 août, la patiente se plaint soudainement de nausées, de douleurs abdominales et d’anorexie. Elle demeure apyrétique. Le bilan biologique révèle une élévation des phosphatases alcalines, de la gamma-glutamyltransférase, des transaminases et de la bilirubine totale (tableau I).
+
+Le bilan étiologique effectué le 24 août comprend une tomodensitométrie abdominale des canaux biliaires : aucune anomalie du parenchyme hépatique n’est visible. La même journée, on diminue la posologie d’imipénemcilastatine à 500 mg par voie intraveineuse, deux fois par jour, et l’antibiotique est discontinué le 31 août. L’évolution clinique de la patiente est favorable, on observe la disparition des symptômes après la diminution et l’arrêt du traitement à l’imipénem-cilastatine. Un bilan biologique effectué quelques jours après l’arrêt de l’imipénem-cilastatine révèle le retour à la normale du bilan hépatique.
+
+Tableau I : Résultats des tests de laboratoire
+Tests Valeurs normales 18/07 20/07 06/08 16/08 18/08 20/08 23/08 24/08 25/08 27/08 30/08 03/09
+Phosphatase alcaline 25-200 U/L 167 120 128 361 812 914 632 373 298 182
+Asparginase aminotransférase (AST) 6-35 U/L 13 88
+Alaninaminotransférase (ALAT) 6-45 U/L 13 12 13 25 95 66 39 20 12 8
+Gamma-glutamyl transférase (GGT) 0-40 U/L 66 575
+Bilirubine Totale 1,7-18,9 μmol/L 9 6 10 14 69 30 21 13 15 12
+Globules blancs 4-11,109/L
+8,58 8,20 11,3 26,75 16,75 17,26 15,53 10,3 6,70
+Neutrophiles (nmol/L) 1,60-7,70 7,26 10,26 14,93 13,54 8,21 4,64
+Creatinine sérique (μmol/L) 55-110 73 73 75 83 73 66

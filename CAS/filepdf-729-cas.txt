@@ -1,0 +1,47 @@
+Il s’agit d’une femme de 75 ans, mesurant 1,54 m et pesant 43,1 kg au moment de l’admission. Elle ne souffre d’aucune allergie médicamenteuse connue. Les antécédents médicaux et la médication à l’admission sont présentés aux tableaux I et II.
+
+Le jour 1, elle se présente à l’urgence pour douleur épigastrique, perte de poids récente de 5 kg en 30 jours, frissons, hyperthermie à 38,3° C et fatigue. La tomodensitométrie abdo-pelvienne met en évidence une masse hépatique dans le lobe droit avec un envahissement complet du réseau porte.
+
+Son bilan hématologique est perturbé : globules blancs 13,6 x 109/l (normale 4,20-11,0 x 109/l), hémoglobine 70 g/l (normale 120-150 g/l), plaquettes 528 x 109/l (normale 150400 x 109/l), globules rouges 2,57 x 1012/l (normale 3,80-5,20 x 1012/l), polynucléaires neutrophiles 10,60 x 109/l (normale 1,70-7,60 x 109/l). Elle reçoit deux culots globulaires le jour 1 de l’hospitalisation.
+
+Une antibiothérapie est débutée avec de la ciprofloxacine 500 mg par voie orale deux fois par jour, et du métronidazole 500 mg par voie orale trois fois par jour est débuté au jour 2. Elle demeure afébrile jusqu’au jour 14 où elle présente un pic fébrile à 38,6° C. Une biopsie de la masse hépatique est effectuée et la ponction révèle un liquide purulent. L’équipe médicale conclut qu’il s’agit d’un abcès probablement dû à une surinfection de la masse hépatique. La codéine à raison de 15 mg par voie orale toutes les quatre heures au besoin est prescrite pour soulager la douleur de la patiente. Le soir du jour 15, un traitement avec l’antibiotique pipéracilline/tazobactam 4 g par voie intraveineuse toutes les huit heures est débuté.
+
+Quarante-huit heures après le début de l’administration de pipéracilline/tazobactam, une réaction cutanée sous la forme d’un purpura apparaît à la jambe gauche et à la cheville droite. L’équipe médicale soupçonne une vascularite secondaire au traitement antibiotique. Il n’y a pas d’autre manifestation cutanée ou systémique possiblement rencontrée dans une vascularite d’hypersensibilité (fièvre, urticaire, arthralgie, augmentation de la vitesse de sédimentation des érythrocytes).
+
+Tableau I: Antécédents médicaux de la patiente
+• Polyarthrite rhumatoïde
+• Hypothyroïdie
+• Ostéoporose
+• Fibrose pulmonaire
+• Cholécystectomie
+• Hémorragie digestive basse secondaire à des diverticules
+• Dyspepsie secondaire aux anti-inflammatoires non stéroïdiens
+
+Tableau II : Profil médicamenteux de la patiente
+Médicament Posologie Jours d’hospitalisation
+1 2 14 15 16 17 18 19 20 21
+Méthotrexate 2,5 mg 15 mg PO le vendredi *
+Acide folique 1 mg PO 5j/semaine *
+Risédronate 35 mg PO le lundi
+Calcium/Vitamine. 1 comp P D
+500 mg/ 400 UI 2 fois par jour X X X X X X X X X X
+Lévothyroxine 0,088 mg PO
+1 fois par jour X *
+Lévothyroxine 0,075 mg PO
+1 fois par jour X X X X X X X X X
+Oméprazole 20 mg PO
+1 fois par jour X X X X X X X X X X
+Héparine 5000 UI SC
+toutes les 12 heures X X B X X X X X X
+Pipéracilline/ 4 g IV X X X *
+tazobactam toutes les 8 heures
+Acétaminophène 650 mg PO toutes les
+6 heures si besoin 650 mg 650 mg
+Codéine 15 mg PO toutes les
+4 heures si besoin X X X X X X X X
+Métronidazole 500 mg PO 3 fois par jour X X X X X X
+Ciprofloxacine 500 mg PO 2 fois par jour X X
+Lévofloxacine 500 mg PO 1 fois par jour X X X X
+* arrêt médicament; B = biopsie hépatique
+
+En revanche, il y a une bonne réponse à la pipéracilline/tazobactam, la patiente demeurant afébrile. Les globules blancs et les polynucléaires neutrophiles sont normalisés à 9,6 x 109/l (normale 4,20-11,0 x 109/l) et 6,38 x 109/l (normale 1,70-7,60 x 109/l) respectivement. L’hémoglobine est stable à 88 g/l (normale 120-150 g/l) et les plaquettes restent élevées à 427 x 109/l (normale 150400 x 109/l). Pour prévenir la progression éventuelle du purpura au jour 18, soit environ 72 heures après le début de l’antibiothérapie, la combinaison pipéracilline/tazobactam est remplacée par l’association de la lévofloxacine 500 mg par voie orale une fois par jour et du métronidazole 500 mg par voie orale toutes les huit heures. Le jour 21, soit 72 heures après l’arrêt de la pipéracilline/tazobactam, le purpura est pratiquement résolu et l’antibiothérapie en cours est bien tolérée.

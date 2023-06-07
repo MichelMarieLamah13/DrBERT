@@ -1,0 +1,84 @@
+Le cas présenté concerne un homme âgé de 61 ans (71 kg, 172 cm, soit un indice de masse corporelle de 23,9 kg/m²) admissible à une transplantation pulmonaire en raison d’une insuffisance respiratoire chronique terminale sur emphysème post-tabagique, sous oxygénothérapie continue (1 L/min) et ventilation non invasive nocturne. Il présente, comme principaux antécédents, une dyslipidémie, une hypertension artérielle et un tabagisme sevré estimé à 21 paquets-années (facteurs de risque cardiovasculaires). Le bilan préopératoire a révélé une hypertension artérielle pulmonaire essentiellement postcapillaire conduisant à l’ajout du périndopril (2 mg par jour) et du furosémide (40 mg par jour). La mise en évidence d’un Elispot (enzyme-linked immunospot) positif pour la tuberculose a motivé l’introduction d’un traitement prophylactique par l’association rifampicine-isoniazide (600-300 mg par jour) pour une durée de trois mois.
+
+Deux mois après le bilan préopératoire, le patient a bénéficié d’une transplantation mono-pulmonaire gauche sans dysfonction primaire du greffon5,6. Le donneur et le receveur présentaient tous deux un statut sérologique positif pour cytomegalovirus (CMV) et Epstein Barr Virus (EBV). Une sérologie positive de la toxoplasmose a été mise en évidence uniquement chez le receveur. Le traitement immunosuppresseur d’induction associait la méthylprednisolone (500 mg à jour 0 et 375 mg à jour +1 post-transplantation) et le basiliximab, anticorps monoclonal dirigé contre l’interleukine-2 (20 mg à jour 0 et jour +4 posttransplantation). À partir de jour +2 post-transplantation, l’immunosuppression a été maintenue par une trithérapie par voie orale comprenant le tacrolimus à une posologie initiale de 5 mg par jour, le mofétil mycophénolate (MMF) 2000 mg par jour et la prednisone 20 mg par jour. Les traitements associés sont présentés dans le tableau I.
+
+Tableau I. Caractéristiques pharmacocinétiques du traitement du patient à jour +4 post-transplantation7,8 (NB : les cytochromes les plus importants sont notés en gras)
+Objectif thérapeutique
+DCI Posologie Métabolisme Élimination Substrat enzymatique
+Inducteur enzymatique
+Inhibiteur enzymatique
+Prévention du rejet Tacrolimus 20 mg/jour Hépatique, intestinal, rénal
+T1/2 = 12 – 35 h
+Fécale (92,6 ± 30,7 %)
+3A4, 3A5, 3A7 — 3A4
+Mycophénolate mofétil
+4 000 mg/jour Présystémique, hépatique
+T1/2 = 13 – 17 h
+Rénale (93 %)
+— — —
+Prednisone 60 mg/jour Hépatique T1/2 = 2 – 3 h
+Rénale
+3A4 1A1, 1A2, 2C19, 3A4 3A4
+Prophylaxie contre la réactivation du CMV
+Valganciclovir 900 mg/jour Intestinal, hépatique
+T1/2 = 4,08 h
+Rénale (81,5 ± 22,0 %)
+— — —
+Prophylaxie contre l’infection à P. jiroveci (et traitement associé)
+Pyriméthamine (P) / Sulfadoxine (S)
+50/1000 mg/semaine
+Hépatique (P) T1/2 = 96 h (P) –
+192 h (S)
+Rénale
+— — Pyriméthamine : 2C8, 2C9, 2D6
+Folinate de calcium
+50 mg/semaine
+Intestinal, hépatique
+T1/2 = 6 – 7 h Rénale
+— — —
+Prophylaxie contre la tuberculose
+Rifampicine / Isoniazide
+600/300 mg/semaine
+Hépatique
+Rifampicine : T1/2 = 3,35 ± 0,66 h
+Biliare (> 70 %)
+Isoniazide : T1/2 = 0,5 – 5 h
+Rénale (50 à 70 %)
+Rifampicine : 1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1, 3A4, 3A5
+Isoniazide : 2E1
+Rifampicine : 1A1, 1A2, 1B1, 2A6, 2A13, 2B6, 2C8, 2C9, 2C18, 2C19, 2D6, 2E1, 2F1, 3A4, 3A5, 3A7, 3A11, 3A43
+Isoniazide : 2E1
+Rifampicine : 2A6, 2C8, 3A4, 3A5, 7A1
+Isoniazide : 1A2, 2A6, 3A4, 2C8, 2C9, 2C19, 2D6, 2E1
+Prophylaxie contre l’ostéoporose cortico-induite
+Calcium 1000 mg/jour — Rénale (+++) — — —
+Cholécalciférol 80 000 UI/
+mois
+Hépatique, rénal T1/2 = 15 – 40 jours
+Biliare
+27A — 1A1, 2B6, 2C8, 2C9, 2C19, 2D6
+Prophylaxie contre le RGO
+Ésoméprazole 20 mg/jour Hépatique T1/2 = 1,0 – 1,5 h
+Rénale (80 %)
+2C19, 3A4 — —
+Traitement de l’HTAP post-capillaire
+Périndopril 2 mg/jour NR T1/2 = 17 h
+Rénale
+— — —
+Furosémide 40 mg/jour Hépatique (faible) T1/2 = 2 h
+Rénale
+2E1 — —
+Traitement antalgique Paracétamol Au besoin Hépatique T1/2 = 1 – 4 h
+Rénale (80 %)
+1A1, 1A2, 2A6, 2C8, 2C9, 2D6, 2E1, 3A4, 3A5 2D6, 2E1, 3A4, 3A5 3A5
+Traitement de l’anxiété Hydroxyzine 50 mg/jour Hépatique T1/2 = 20 – 25 h
+NR
+— — 2D6
+Prévention des thromboses
+Enoxaparine sodique
+4 000 UI/jour Hépatique T1/2 = 4,5 h
+Rénale (40 %)
+— — —
+CMV : cytomegalovirus; DCI : dénomination commune internationale; HTAP : hypertension artérielle pulmonaire; NR : non renseigné; RGO : reflux gastro-oesophagien
+
+L’évolution est marquée par la survenue, au jour +5 posttransplantation, d’une dégradation respiratoire sur œdème pulmonaire gauche de reperfusion, avec possible participation cardiogénique. Le rejet aigu de grade III, évoqué par la présence d’infiltrats lymphocytaires aux biopsies transbronchiques, a été confirmé par l’anatomopathologie. Un traitement intraveineux par méthylprednisolone (1000 mg au jour 1, 500 mg au jour 2, 250 mg au jour 3 puis décroissance progressive par voie orale de la posologie de prednisone de 25 à 50 % tous les trois à quatre jours pour atteindre une posologie de 0,15 mg/kg/jour) a été mis en place. Les biopsies transbronchiques de contrôle, réalisées une semaine après le traitement, retrouvent un rejet non évolutif. La présence d’anticorps anti-HLA (antigènes des leucocytes humains) de type DSA (donor-specific antibody) a conduit à la mise en place d’un traitement immunomodulateur par immunoglobulines polyvalentes (1 g/kg/jour pendant deux jours tous les mois pendant trois mois). Sur le plan biologique, aucune anomalie cliniquement significative n’est mise en évidence, notamment en faveur d’une infection (réaction en chaîne par polymérase (PCR) EBV et CMV négatives, cultures microbiologiques du liquide bronchoalvéolaire stériles, protéine C réactive (CRP) à 9 mg/L, leucocytes à 4,5 G/L). Le suivi thérapeutique a mis en évidence une concentration résiduelle sanguine en tacrolimus infrathérapeutique, persistante depuis le début de la transplantation pulmonaire, malgré une adhésion thérapeutique optimale (Figure 1).

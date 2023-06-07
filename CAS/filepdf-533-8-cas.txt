@@ -1,0 +1,23 @@
+Une femme âgée de 55 ans dîne avec un collègue de travail connu de longue date. Quasi-amnésique à son réveil vers 8 heures du matin à son domicile, elle se souvient avoir passé la nuit avec lui et pense avoir été droguée par cet homme. Des prélèvements sont effectués aux UMJ de Paris et une première analyse toxicologique est réalisée par un laboratoire hospitalier en CPG/SM annonçant la présence dans l'urine d'hydroxyzine (ATARAX®) et ses metabolites. Par ailleurs l'enquête indique une prise possible d'HALCION® (triazolam) retrouvé au domicile de son collègue mis en cause. La plaquette retrouvée chez lui met en évidence deux comprimés manquants.
+
+Face à cette contradiction une contre-expertise des prélèvements est demandée par le Juge d'Instruction au toxicologue expert. Nos analyses n'ont pas permis de mettre en évidence le triazolam, ni son metabolite l'hydroxytriazolam dans l'urine prélevé à l'hôpital ni dans celle prélevée le matin même par la victime et soit disant mise à +4° C dans son réfrigérateur. Une étude faite spécifiquement au laboratoire sur la stabilité de T hydroxy triazolam dans l'urine révèle que celui-ci est très instable à +4° C. Le délai de 10 jours entre les faits et la réception des prélèvements au laboratoire permet parfaitement d'expliquer c e résultat négatif. On apprendra par la suite que l'urine collectée à 08 heures le matin des faits par la victime a été, en réalité, oubliée dans son sac et n ' a été mise au frigidaire que 8 jours après.
+
+Concernant la mise en évidence d'hydroxyzine par chromatographie en phase gazeuse couplée à la spectrométrie de masse lors de la première expertise sur les urines analysées à l'hôpital, nous avons observé les «pièges analytiques» suivants (figure 3) :
+
+* l'ion majoritaire m/z = 201 de l'hydroxyzine est un ion non spécifique car il est aussi présent dans de nombreuses interactions liées à des effets de matrice or il n'y avait pas dans leur spectre d'autres ions de confirmation permettant de conclure à la présence d'hydroxyzine.
+
+* Il convient de s'assurer que le temps de rétention du composé identifié est rigoureusement identique à celui d'une référence d'hydroxyzine
+
+* l'ion moléculaire m/z = 374 doit être nécessairement confirmé, lorsqu'il est peu abondant, par une méthode alternative mettant en jeu un mode d'ionisation qui n'est pas celui classiquement utilisé en spectrométrie de masse à savoir l'ionisation chimique en mode positif et non l'impact électronique, et ce pour une meilleure spécificité.
+
+* Dans le cas de l'hydroxyzine qui est une molécule chlorée, on doit nécessairement confirmer la présence de l'atome de chlore qui peut être aisément identifié par la répartition isotopique particulière de cet halogène sur le couple chlore 35/37. Il s'ensuit une répartition d'un tiers (abondance naturelle du chlore 37) de la masse m/z +2 sur chaque ion du spectre de masse contenant cet atome de chlore.
+
+Rappelons parmi les critères unanimement reconnus sur le plan scientifique qu'afin d'identifier une molécule de façon certaine en CPG/SM, il faut nécessairement s'assurer de trois critères :
+
+- quatre ions, dont l'ion moléculaire lorsqu'il est présent, sont nécessaires pour l'identification,
+
+- le rapport des principaux ions entre eux doit être respecté,
+
+- le temps de rétention de la molécule doit être identique à la référence.
+
+Au vu de ces éléments, les méthodes alternatives entreprises pour confirmer la présence de cette molécule, nous ont conduit à conclure à l'absence d'hydroxyzine et à confirmer la présence d'ions interférents par effet de matrice pouvant induire un résultat «faux positif».

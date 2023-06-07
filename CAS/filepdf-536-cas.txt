@@ -1,0 +1,35 @@
+Une jeune fille âgée de 15 ans, est admise au service des urgences pour troubles du comportement, hallucinations, agitation et état confusionnel avec désorientation spatio-temporelle. Nous avons pu réaliser l'identification du toxique qu'elle a ingéré en utilisant une procédure de type HPLC-BD. 
+
+Lors de son admission, son état ne semble pas alarmant. Sa situation est considérée comme une «urgence relative». L'interrogatoire se révèle peu informatif car les propos de la mère et de la fille ne concordent pas.
+
+L'examen clinique révèle :
+
+1. Des troubles cognitifs : désorientation, discours confus, troubles de mémoire et un syndrome hallucinatoire progressif
+
+2. Un syndrome anticholinergique : mydriase bilatérale persistante
+
+3. Des troubles neurologiques : réflexes ostéo-tendineux diminués symétriquement et, peu après l'examen une crise convulsive cédant sous clonazepam.
+
+Les examens neurologique et psychiatrique semblent écarter un syndrome épileptiforme et un début de schizophrénie. Une analyse toxicologique effectuée en urgence sur les urines, comprend la recherche de classes médicamenteuses (imipraminiques, benzodiazepines, et phénothiazines) et de stupéfiants (cannabis, cocaïne, opiacés et amphétamines).
+
+Devant la persistance des signes cliniques anticholinergiques (mydriase, hallucinations) une recherche toxicologique spécifique dans les urines, a été demandée. ; kétamine (Ketalar®), acide gamma-hydroxybutyrique, (Gamma-OH®) et trihexyphenidyle (Ariane®).
+
+Quelques heures après l'hospitalisation de la jeune fille, sa mère apporte un gobelet en plastique au fond duquel est pris en masse une poudre blanche humide, formant une pâte. Ce gobelet a été retrouvé dans la chambre de la jeune fille.
+
+Les risques de rhabdomyolyse, liés à l'intoxication par la doxylamine conduisent à une surveillance étroite de l'activité créatine-phosphokinase (CPK) qui atteint 3800 UI/L (normales entre 15 et 130 UI/L) 4 jours après l'intoxication puis diminue. On observe également une élévation de la troponine et une myoglobinurie. On n'observe pas de signe d'insuffisance rénale. La patiente sort de l'hôpital, 6 jours après son admission.
+
+Les résultats de l'analyse toxicologique de première intention sont tous négatifs (cannabis, cocaine, opiacés, benzodiazepines, barbituriques, imipraminiques et phénothiazines) aussi bien sur les urines que sur la solution aqueuse réalisée avec la poudre.
+
+Les résultats de la recherche urinaire de kétamine (Kétalar®), de gamma-hydroxybutyfate (Gamma-OH®) et de trihexyphénidyle (Ariane®) sont tous négatifs.
+
+L'analyse chromatographique de la solution aqueuse préparée à partir de la poudre blanche de nature inconnue montre un pic à 13,7 min de temps de rétention, avec un maximum d'absorption à 2,8 unités d'absorbance (figure 1). Son spectre d'absorption dans l'ultraviolet présente un maximum à deux longueurs d'ondes (200 n m et 260 nm) (figure 3).
+
+Par comparaison avec la bibliothèque spectrale, on obtient : homologie spectrale de 95 % (match angle = 4,0) d'une part avec l'acide nicotinique dont le temps de rétention est 3,5 min, et une homologie spectrale de 91 % (match angle = 8) avec la doxylamine, dont le temps d e rétention est de 13,7 min. La similitude spectrale observée entre le produit de nature inconnue et l'acide nicotinique et la doxylamine provient de la présence d ' u n noyau pyridine commun à ces molécules.
+
+L'analyse des urines de la patiente montre également un pic à 13,7 min de temps de rétention, avec un spectre présentant deux pics aux longueurs d'onde : 190 nm et 300 nm (figure 2). Dans ce cas, l'homologie spectrale est de 96 % (match angle = 3.5) avec le spectre de la doxylamine.
+
+Le résultat ainsi obtenu lors de l'identification toxicologique au moyen d'une technique chromatographique (HPLC-BD), montre que la poudre analysée contient une grande quantité de doxylamine. Cette substance est également retrouvée en grande quantité dans les urines émises lors de l'admission!.
+
+Il n'a pas été réalisé de dosage sanguin.
+
+La jeune fille avoue avoir acheté 5 boîtes de Donormyl® sans en expliquer la raison, et le psychiatre conclut à une intoxication médicamenteuse volontaire dans le contexte des difficultés de l'adolescence.

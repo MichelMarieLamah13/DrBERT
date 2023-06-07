@@ -1,0 +1,5 @@
+Un patient de 86 ans est retrouvé inconscient à son domicile sans notion d’intoxication. À son admission, il présente une acidose (pH = 7,24) associée à une hyperlactacidémie à 26 mmol/L sur ABL 825 r Radiometer, secondairement contrôlée à 4,54 mmol/L sur Dimension R×L. En raison d’interférences précédemment décrites sur la mesure du lactate [1–7] lors d’intoxications à l’éthylène glycol, nous avons suspecté puis confirmé une intoxication chez ce patient dont le taux sérique d’éthylène glycol a été retrouvé à 2,40 mmol/L (148,8 mg/L) [8].
+
+Ce cas d’intoxication découvert au décours d’une interférence analytique nous a permis de procéder à une étude approfondie de l’interaction des principaux métabolites de l’éthylène glycol sur ce dosage.
+
+L’interférence n’ayant pas été retrouvée après dosage du lactate sur Dimension R×L r , le but de notre travail a consisté à établir la réalité de celle-ci et dans un deuxième temps à identifier la molécule ou les molécules qui interfèrent.

@@ -1,0 +1,9 @@
+entity_group,score,word,start,end
+LIVB,0.9878027,maman,3,9
+LIVB,0.9848808,enfant,31,38
+LIVB,0.8357636,Elle,39,44
+CHEM,0.69296443,sirop de fraise,62,78
+CHEM,0.72645515,substance,91,101
+PHYS,0.35409072,ir,115,117
+CHEM,0.9176795,Zolpidem,121,130
+ANAT,0.6312147,verre,151,157
